@@ -1,0 +1,2001 @@
+age,gender,province,urban_rural,household_income,parent_education,attendance,highest_grade,dropout
+18,Male,North West,Urban,8931.49,Secondary,Yes,2,0
+15,Female,Western Cape,Urban,-5000.0,Primary,Yes,9,0
+5,Female,North West,Rural,4164.1,Secondary,Yes,8,0
+18,Female,Northern Cape,Urban,11491.67,Primary,No,7,0
+14,Female,Mpumalanga,Rural,13799.41,Secondary,Yes,2,0
+19,Male,Free State,Rural,-5000.0,None,Yes,6,0
+16,Female,Mpumalanga,Rural,9113.2,Tertiary,Yes,8,0
+16,Male,Free State,Rural,6780.31,Primary,Yes,7,0
+18,Male,Eastern Cape,Urban,10796.92,Tertiary,Yes,8,0
+13,Male,Northern Cape,Rural,3133.36,Tertiary,Yes,4,0
+14,Male,Eastern Cape,Rural,14515.75,Secondary,No,5,1
+18,Male,KwaZulu-Natal,Urban,1568.42,Secondary,Yes,7,0
+14,Female,Free State,Urban,7022.88,Secondary,Yes,2,0
+14,Female,Limpopo,Urban,9737.18,Tertiary,Yes,5,0
+19,Female,Eastern Cape,Rural,5254.65,Secondary,Yes,7,0
+16,Female,KwaZulu-Natal,Rural,4626.39,Secondary,Yes,1,0
+15,Male,Gauteng,Urban,8888.94,Secondary,Yes,4,0
+19,Female,North West,Urban,8311.04,Tertiary,Yes,2,0
+19,Male,Mpumalanga,Urban,8023.75,Secondary,Yes,6,0
+14,Female,KwaZulu-Natal,Urban,11434.75,Secondary,Yes,1,0
+17,Male,Northern Cape,Rural,6422.11,Secondary,No,2,1
+16,Male,Eastern Cape,Urban,9278.37,Tertiary,Yes,3,0
+13,Female,Northern Cape,Urban,5973.59,Secondary,Yes,1,0
+19,Male,North West,Urban,4602.68,Primary,Yes,8,0
+15,Male,Limpopo,Rural,6860.97,Secondary,Yes,7,0
+17,Female,Northern Cape,Urban,6004.94,Tertiary,No,9,1
+17,Male,Free State,Rural,6204.78,Secondary,Yes,7,0
+13,Female,Limpopo,Urban,12661.31,Tertiary,Yes,3,0
+19,Female,Limpopo,Urban,6983.59,None,No,5,0
+15,Female,KwaZulu-Natal,Urban,,,,8,0
+16,Male,Limpopo,Urban,8112.32,Secondary,Yes,5,0
+12,Male,Western Cape,Urban,8416.91,Tertiary,Yes,7,0
+15,Male,North West,Rural,3252.48,None,Yes,3,0
+13,Female,Limpopo,Rural,6806.37,Tertiary,Yes,1,0
+17,Male,Northern Cape,Rural,6645.26,Secondary,Yes,1,0
+16,Female,Gauteng,Urban,7311.42,Primary,Yes,11,0
+15,Female,Western Cape,Rural,10902.11,Primary,Yes,2,0
+12,Male,Western Cape,Urban,8546.69,Primary,Yes,8,0
+12,Female,Free State,Urban,12911.75,Secondary,Yes,1,0
+14,Male,Limpopo,Urban,7953.36,None,Yes,11,0
+14,Male,Free State,Urban,15104.35,Primary,Yes,5,0
+18,Male,Free State,Rural,6156.9,Tertiary,No,4,0
+13,Male,Gauteng,Urban,4921.75,Primary,No,5,1
+19,Male,KwaZulu-Natal,Urban,10189.21,Primary,No,8,0
+15,Female,Limpopo,Rural,13456.33,Secondary,No,2,1
+15,Female,Eastern Cape,Urban,2484.79,Secondary,Yes,11,0
+19,Female,Free State,Urban,7212.04,Secondary,Yes,1,0
+18,Male,North West,Urban,5556.87,Secondary,Yes,3,0
+17,Male,Mpumalanga,Rural,8571.4,Secondary,Yes,6,0
+17,Male,North West,Rural,8040.07,Secondary,Yes,9,0
+18,Female,Gauteng,Urban,13381.52,Primary,Yes,10,0
+17,Male,Gauteng,Urban,7566.38,Primary,Yes,2,0
+14,Female,Northern Cape,Urban,13499.14,Secondary,No,1,1
+15,Female,KwaZulu-Natal,Rural,6739.6,Primary,Yes,4,0
+18,Male,Free State,Urban,11705.93,Secondary,Yes,2,0
+15,Male,North West,Urban,8914.65,Secondary,No,7,1
+19,Female,Mpumalanga,Urban,,,,6,0
+12,Male,Gauteng,Urban,2091.94,Primary,Yes,10,0
+14,Female,Gauteng,Urban,3344.57,Primary,Yes,9,0
+16,Male,KwaZulu-Natal,Rural,15326.49,Secondary,Yes,8,0
+14,Male,Mpumalanga,Urban,5066.94,Secondary,Yes,10,0
+18,Female,Mpumalanga,Urban,5320.79,Secondary,Yes,11,0
+16,Male,KwaZulu-Natal,Rural,4497.11,Primary,Yes,9,0
+12,Female,Gauteng,Rural,12593.78,Secondary,Yes,4,0
+18,Male,Limpopo,Urban,2986.17,Tertiary,No,7,0
+13,Female,Limpopo,Urban,,,,3,1
+15,Female,KwaZulu-Natal,Urban,6937.51,Secondary,Yes,8,0
+12,Male,Mpumalanga,Rural,12146.06,Tertiary,Yes,2,0
+15,Female,Free State,Urban,5745.27,Primary,No,8,1
+17,Male,KwaZulu-Natal,Rural,,,,5,1
+13,Male,KwaZulu-Natal,Rural,,,,3,1
+13,Male,Western Cape,Urban,-5000.0,Secondary,No,9,1
+12,Female,North West,Urban,1000000.0,None,Yes,8,0
+13,Female,Mpumalanga,Urban,8035.05,Tertiary,Yes,11,0
+16,Male,Northern Cape,Urban,14619.02,Secondary,Yes,5,0
+13,Male,Northern Cape,Urban,5653.31,Secondary,Yes,5,0
+15,Female,Mpumalanga,Rural,14669.53,Secondary,Yes,3,0
+15,Male,Western Cape,Rural,6354.12,Secondary,Yes,5,0
+18,Male,Western Cape,Urban,10686.79,Secondary,Yes,4,0
+15,Female,Gauteng,Rural,5709.27,Tertiary,Yes,1,0
+18,Male,North West,Urban,2575.85,Tertiary,Yes,9,0
+15,Female,Limpopo,Urban,9658.38,Secondary,Yes,10,0
+16,Male,Eastern Cape,Urban,10559.61,Tertiary,Yes,4,0
+19,Female,Eastern Cape,Rural,2736.46,Secondary,Yes,3,0
+18,Male,Eastern Cape,Rural,6771.77,Secondary,Yes,6,0
+14,Male,Mpumalanga,Rural,12803.04,Secondary,No,4,1
+17,Female,Northern Cape,Urban,10400.48,Primary,Yes,5,0
+12,Male,Northern Cape,Urban,6419.14,None,Yes,7,0
+15,Female,Limpopo,Urban,5609.9,Primary,Yes,2,0
+13,Male,Mpumalanga,Urban,15792.98,Secondary,Yes,10,0
+19,Female,Eastern Cape,Rural,2212.27,Primary,Yes,9,0
+15,Female,Free State,Rural,7763.21,Secondary,Yes,6,0
+13,Female,Northern Cape,Rural,2141.21,Tertiary,Yes,2,0
+17,Female,Gauteng,Urban,13259.26,Primary,Yes,8,0
+17,Male,KwaZulu-Natal,Urban,7971.51,Secondary,Yes,8,0
+17,Male,Free State,Urban,8712.7,Primary,No,1,1
+13,Female,Northern Cape,Urban,19075.57,None,Yes,1,0
+15,Female,Western Cape,Urban,5626.11,Secondary,Yes,1,0
+17,Female,Northern Cape,Rural,14994.3,Secondary,Yes,4,0
+16,Male,Gauteng,Rural,,,Yes,4,1
+18,Male,Eastern Cape,Urban,7065.95,Primary,Yes,8,0
+13,Male,Western Cape,Urban,18552.7,Secondary,Yes,1,0
+13,Male,Mpumalanga,Urban,7355.64,Primary,Yes,10,0
+15,Female,North West,Urban,2502.51,Primary,Yes,3,0
+13,Female,Eastern Cape,Rural,9127.68,None,Yes,11,0
+13,Female,North West,Urban,7309.05,Primary,Yes,1,0
+17,Male,Free State,Urban,9468.38,Primary,Yes,9,0
+15,Male,KwaZulu-Natal,Urban,7465.61,Primary,Yes,10,0
+17,Male,Western Cape,Rural,16862.18,Tertiary,Yes,9,0
+18,Female,Limpopo,Urban,10226.94,Primary,Yes,7,0
+19,Female,Western Cape,Urban,3700.14,Primary,Yes,8,0
+30,Male,Northern Cape,Urban,,,,1,0
+19,Female,Northern Cape,Rural,4801.48,Secondary,Yes,5,0
+17,Male,Northern Cape,Rural,7009.14,None,Yes,2,0
+18,Male,Free State,Urban,4358.24,Tertiary,Yes,1,0
+15,Female,Eastern Cape,Rural,16428.47,Tertiary,No,9,1
+12,Male,Limpopo,Rural,5234.46,Primary,Yes,7,0
+17,Female,Limpopo,Rural,10750.26,Secondary,Yes,1,0
+19,Male,Northern Cape,Rural,6706.08,None,Yes,11,0
+16,Female,North West,Rural,3366.35,Secondary,Yes,2,0
+19,Female,Free State,Urban,8790.6,Secondary,Yes,2,0
+16,Female,Northern Cape,Rural,9602.77,Primary,Yes,4,0
+13,Male,KwaZulu-Natal,Urban,10234.51,Primary,Yes,3,0
+18,Male,Eastern Cape,Rural,0.0,Secondary,No,2,0
+16,Female,Mpumalanga,Urban,,,,5,1
+19,Female,KwaZulu-Natal,Rural,11830.22,Primary,Yes,5,0
+13,Male,North West,Rural,4305.57,Secondary,Yes,3,0
+12,Male,Western Cape,Urban,8811.78,Secondary,Yes,11,0
+15,Male,Western Cape,Rural,,,,7,0
+15,Female,KwaZulu-Natal,Urban,10926.4,Primary,Yes,5,0
+15,Male,Northern Cape,Rural,11725.08,Secondary,No,3,1
+16,Male,Mpumalanga,Urban,10927.64,Secondary,Yes,3,0
+12,Female,Gauteng,Urban,12130.23,Primary,No,2,1
+16,Male,Gauteng,Rural,14255.6,Secondary,Yes,2,0
+18,Male,North West,Urban,3303.7,Secondary,No,1,0
+16,Male,Northern Cape,Rural,4845.31,Tertiary,Yes,3,0
+12,Female,Limpopo,Urban,11590.17,Primary,Yes,11,0
+12,Female,Limpopo,Urban,12520.88,Secondary,Yes,2,0
+18,Female,Eastern Cape,Urban,5302.63,Primary,Yes,1,0
+12,Female,Mpumalanga,Urban,5024.46,Tertiary,Yes,1,0
+19,Female,Mpumalanga,Urban,5391.15,Primary,Yes,2,0
+12,Female,Western Cape,Urban,1579.62,Tertiary,Yes,9,0
+15,Female,Free State,Urban,2914.36,Tertiary,Yes,5,0
+19,Male,North West,Urban,3010.83,Primary,No,4,0
+19,Male,Gauteng,Rural,6823.61,Tertiary,No,1,0
+18,Female,North West,Rural,9083.35,Tertiary,Yes,11,0
+14,Male,Limpopo,Urban,9733.89,Primary,Yes,6,0
+14,Male,Limpopo,Rural,5965.75,Secondary,Yes,1,0
+12,Female,KwaZulu-Natal,Urban,6064.05,Secondary,Yes,10,0
+19,Male,Eastern Cape,Rural,8494.65,Primary,Yes,5,0
+14,Male,Mpumalanga,Rural,2015.94,None,Yes,1,0
+14,Male,North West,Rural,11837.76,Primary,Yes,7,0
+12,Male,Limpopo,Urban,13141.54,Primary,No,6,1
+14,Male,Free State,Rural,5497.68,Secondary,Yes,11,0
+16,Female,Western Cape,Urban,6406.26,Primary,Yes,8,0
+13,Female,Gauteng,Rural,12973.25,Tertiary,Yes,8,0
+18,Female,Eastern Cape,Urban,7507.79,Secondary,Yes,7,0
+13,Male,Free State,Rural,1000000.0,None,Yes,2,0
+12,Female,Eastern Cape,Rural,7630.78,Secondary,Yes,5,0
+15,Male,KwaZulu-Natal,Rural,14225.23,Secondary,Yes,4,0
+18,Male,Limpopo,Urban,9960.32,Tertiary,Yes,5,0
+12,Male,Western Cape,Rural,10190.62,None,Yes,10,0
+19,Male,Free State,Urban,10265.23,Primary,Yes,9,0
+15,Female,Eastern Cape,Rural,5779.55,Tertiary,Yes,4,0
+13,Female,Mpumalanga,Urban,6147.04,Tertiary,Yes,8,0
+12,Male,KwaZulu-Natal,Urban,11076.98,Secondary,Yes,8,0
+19,Female,Mpumalanga,Urban,8505.65,Secondary,Yes,2,0
+18,Male,Western Cape,Urban,3289.56,None,Yes,6,0
+18,Female,Free State,Urban,15492.42,Secondary,No,9,0
+17,Female,KwaZulu-Natal,Urban,11912.29,Primary,Yes,2,0
+19,Male,Free State,Urban,8150.51,Primary,Yes,10,0
+16,Female,Limpopo,Rural,6906.0,Tertiary,Yes,4,0
+14,Male,Northern Cape,Rural,8794.7,Primary,Yes,7,0
+15,Female,KwaZulu-Natal,Urban,10070.08,Secondary,Yes,1,0
+19,Male,Mpumalanga,Urban,0.0,Tertiary,Yes,9,0
+17,Male,Western Cape,Urban,16449.4,Primary,Yes,10,0
+14,Female,Limpopo,Urban,4840.46,Tertiary,Yes,1,0
+14,Female,Northern Cape,Rural,7992.38,Tertiary,Yes,5,0
+12,Male,Gauteng,Rural,8139.47,Secondary,Yes,7,0
+14,Female,Limpopo,Urban,15987.4,Primary,Yes,8,0
+16,Female,Western Cape,Urban,7647.5,Primary,Yes,2,0
+18,Male,Eastern Cape,Urban,14354.03,Secondary,Yes,4,0
+17,Male,KwaZulu-Natal,Rural,9626.91,Primary,Yes,2,0
+14,Female,Free State,Rural,4152.46,Primary,Yes,4,0
+12,Male,Western Cape,Urban,8538.83,Tertiary,Yes,6,0
+16,Male,KwaZulu-Natal,Urban,7525.97,Primary,Yes,6,0
+13,Male,Free State,Rural,3663.72,Secondary,Yes,2,0
+18,Female,North West,Rural,9430.89,None,Yes,11,0
+18,Female,Mpumalanga,Urban,8088.41,Secondary,Yes,4,0
+17,Male,Gauteng,Urban,10225.69,Tertiary,Yes,4,0
+18,Female,Limpopo,Urban,8773.41,Primary,Yes,1,0
+14,Male,Western Cape,Urban,5395.59,Primary,Yes,2,0
+12,Female,Gauteng,Urban,11073.34,Secondary,Yes,3,0
+18,Male,Eastern Cape,Urban,5502.41,Secondary,Yes,11,0
+18,Male,KwaZulu-Natal,Urban,0.0,Secondary,Yes,5,0
+13,Female,KwaZulu-Natal,Urban,8514.61,Primary,Yes,11,0
+13,Male,Western Cape,Rural,5783.71,Primary,Yes,8,0
+15,Female,Northern Cape,Urban,9528.52,Tertiary,Yes,6,0
+16,Female,Northern Cape,Urban,15995.49,Tertiary,Yes,3,0
+30,Male,North West,Urban,16110.96,Secondary,Yes,6,0
+18,Male,Mpumalanga,Urban,7339.51,Tertiary,Yes,7,0
+19,Female,Free State,Rural,4693.94,Secondary,Yes,6,0
+18,Male,Eastern Cape,Urban,10338.73,Secondary,Yes,10,0
+12,Male,Gauteng,Urban,6519.1,Primary,No,5,1
+15,Male,Northern Cape,Rural,9567.11,Secondary,Yes,1,0
+16,Male,North West,Urban,5356.56,Secondary,Yes,3,0
+19,Male,North West,Rural,9002.77,None,Yes,7,0
+15,Female,Western Cape,Urban,4752.1,Secondary,Yes,4,0
+17,Female,Eastern Cape,Urban,12737.01,Secondary,Yes,4,0
+16,Male,Free State,Urban,5640.09,Secondary,No,4,1
+18,Male,Mpumalanga,Urban,,,,9,0
+18,Male,Limpopo,Rural,2940.93,Tertiary,Yes,11,0
+16,Female,Western Cape,Rural,,,,2,0
+18,Male,Free State,Urban,4134.46,Secondary,No,6,0
+14,Female,Limpopo,Urban,9044.71,Secondary,Yes,3,0
+16,Female,Limpopo,Rural,12092.8,Secondary,Yes,6,0
+15,Female,Eastern Cape,Rural,7200.07,Primary,Yes,4,0
+16,Male,Eastern Cape,Urban,3883.33,Primary,Yes,1,0
+19,Female,Gauteng,Urban,9987.25,Tertiary,Yes,9,0
+18,Male,North West,Urban,4636.07,Secondary,Yes,11,0
+14,Female,Free State,Rural,6383.02,Tertiary,Yes,6,0
+14,Male,Western Cape,Urban,9061.85,Secondary,Yes,8,0
+17,Female,KwaZulu-Natal,Urban,13442.7,Secondary,Yes,2,0
+15,Male,Western Cape,Rural,8106.21,Tertiary,Yes,7,0
+13,Female,Gauteng,Urban,8091.43,Secondary,Yes,6,0
+13,Male,Mpumalanga,Urban,10950.05,Primary,Yes,8,1
+16,Male,North West,Urban,8201.49,Secondary,Yes,2,0
+17,Male,KwaZulu-Natal,Urban,10542.12,Tertiary,No,3,1
+12,Male,Northern Cape,Urban,12314.13,Primary,No,5,1
+16,Female,Mpumalanga,Urban,6689.05,Primary,Yes,3,0
+17,Female,Eastern Cape,Urban,0.0,None,Yes,8,0
+15,Male,Limpopo,Urban,4728.29,Tertiary,Yes,7,0
+15,Female,Northern Cape,Rural,12834.73,None,Yes,2,0
+15,Male,Western Cape,Rural,7864.94,Secondary,Yes,3,0
+15,Male,Western Cape,Urban,6643.48,Secondary,Yes,10,1
+15,Female,Eastern Cape,Urban,1000000.0,Secondary,Yes,9,0
+17,Male,Gauteng,Urban,7594.7,Secondary,Yes,5,0
+17,Male,Free State,Urban,0.0,None,Yes,2,0
+14,Female,Northern Cape,Urban,1978.79,Secondary,No,8,1
+19,Male,Northern Cape,Rural,,,,8,0
+13,Male,Mpumalanga,Urban,7732.44,Tertiary,No,3,1
+18,Male,North West,Urban,13818.63,Primary,Yes,2,0
+15,Male,Mpumalanga,Urban,5066.93,Tertiary,No,7,1
+12,Female,Free State,Rural,6762.0,Secondary,Yes,6,0
+18,Female,Western Cape,Urban,4461.99,Tertiary,Yes,8,0
+17,Female,Western Cape,Rural,5917.62,Secondary,Yes,7,0
+12,Male,Western Cape,Urban,432.38,Secondary,Yes,4,0
+12,Male,Western Cape,Rural,,,,9,1
+12,Female,Free State,Rural,7792.52,Tertiary,Yes,9,0
+14,Male,Eastern Cape,Urban,7454.68,Secondary,No,2,1
+17,Male,North West,Urban,16598.21,Primary,Yes,9,0
+12,Male,Free State,Urban,,,,5,0
+15,Male,North West,Urban,4996.4,Primary,Yes,11,0
+16,Female,Free State,Rural,0.0,Primary,Yes,11,0
+12,Female,Western Cape,Rural,,,,7,0
+14,Female,Eastern Cape,Rural,9506.04,Tertiary,No,7,1
+18,Male,Northern Cape,Rural,,,,7,0
+17,Female,Mpumalanga,Urban,4756.1,Secondary,No,8,1
+19,Female,Limpopo,Urban,14330.22,Primary,No,2,0
+14,Male,Eastern Cape,Rural,1000000.0,Primary,Yes,11,0
+12,Male,Northern Cape,Urban,10649.0,None,Yes,6,0
+17,Female,Gauteng,Rural,4278.78,Primary,Yes,3,0
+16,Female,Free State,Urban,7772.24,Secondary,No,3,1
+12,Female,Gauteng,Urban,6654.65,Tertiary,Yes,8,0
+14,Female,Northern Cape,Rural,5298.51,Primary,Yes,3,0
+13,Male,Eastern Cape,Urban,12621.2,Secondary,Yes,5,0
+15,Female,Free State,Rural,2444.49,Secondary,Yes,9,0
+19,Female,Limpopo,Rural,9200.23,Tertiary,Yes,11,0
+18,Male,Western Cape,Rural,6579.51,Secondary,No,1,0
+14,Female,Free State,Rural,9659.3,Secondary,Yes,7,0
+17,Male,Free State,Urban,6633.69,Secondary,Yes,11,1
+19,Male,Eastern Cape,Rural,11468.77,Tertiary,Yes,7,0
+19,Male,Eastern Cape,Urban,4241.19,None,Yes,5,0
+19,Female,Northern Cape,Urban,12630.21,Secondary,Yes,2,0
+12,Female,KwaZulu-Natal,Rural,7884.79,Tertiary,Yes,5,0
+15,Male,Free State,Urban,,,,6,1
+12,Female,Mpumalanga,Urban,10720.86,Secondary,Yes,7,0
+17,Female,Free State,Urban,7204.6,Secondary,Yes,4,0
+12,Male,Northern Cape,Urban,1168.65,Primary,Yes,1,0
+13,Male,North West,Rural,9329.87,Secondary,Yes,6,0
+15,Female,Gauteng,Urban,12026.38,Secondary,Yes,3,0
+15,Male,Western Cape,Rural,,,,11,0
+17,Female,KwaZulu-Natal,Rural,6486.59,Secondary,Yes,5,0
+18,Female,Limpopo,Rural,8581.27,Tertiary,Yes,4,0
+13,Female,Limpopo,Urban,8202.15,Primary,No,9,1
+14,Female,Limpopo,Rural,13959.21,Secondary,Yes,7,0
+12,Male,Eastern Cape,Urban,4758.05,Secondary,Yes,5,0
+16,Male,Limpopo,Rural,6141.36,Secondary,Yes,7,0
+12,Male,Western Cape,Urban,4661.12,Primary,No,4,1
+19,Male,Gauteng,Rural,2203.4,Secondary,Yes,4,0
+12,Female,Limpopo,Rural,8991.15,Tertiary,No,7,1
+14,Female,Free State,Urban,14405.19,Secondary,Yes,9,0
+12,Male,Free State,Urban,7206.06,Tertiary,Yes,10,0
+13,Female,Eastern Cape,Rural,4472.41,Tertiary,Yes,11,0
+13,Female,Western Cape,Urban,8747.44,Primary,Yes,4,0
+15,Female,Gauteng,Rural,10356.47,Primary,Yes,5,0
+17,Male,KwaZulu-Natal,Urban,7374.55,Tertiary,Yes,5,0
+18,Male,Northern Cape,Urban,,,,1,0
+16,Male,Gauteng,Rural,4750.55,None,No,7,1
+19,Female,Northern Cape,Rural,6852.12,None,Yes,4,0
+12,Male,North West,Rural,9183.95,Primary,Yes,7,0
+12,Male,Northern Cape,Urban,9571.86,Tertiary,Yes,11,0
+14,Male,Mpumalanga,Rural,8188.91,Primary,Yes,5,0
+17,Male,Free State,Urban,2886.32,Secondary,Yes,6,0
+13,Male,Western Cape,Rural,17352.05,Tertiary,No,8,1
+16,Male,Eastern Cape,Rural,7056.12,None,No,2,1
+15,Female,Mpumalanga,Urban,8441.07,Secondary,Yes,10,0
+13,Female,Northern Cape,Urban,10467.04,Primary,Yes,5,0
+19,Male,Limpopo,Urban,5453.98,Tertiary,Yes,5,0
+17,Male,Western Cape,Rural,8227.71,Primary,Yes,9,0
+19,Female,Mpumalanga,Urban,1000000.0,Secondary,Yes,8,0
+18,Female,Eastern Cape,Rural,9662.2,Secondary,Yes,4,0
+15,Male,Free State,Urban,6895.91,Primary,Yes,7,0
+18,Male,Western Cape,Rural,9074.87,None,Yes,8,0
+14,Male,Eastern Cape,Rural,3813.85,Secondary,Yes,9,0
+19,Male,North West,Urban,4684.33,Primary,Yes,5,0
+14,Female,North West,Urban,2539.44,Tertiary,No,7,1
+12,Male,Eastern Cape,Urban,5157.88,Tertiary,Yes,4,0
+18,Male,Mpumalanga,Rural,0.0,Secondary,Yes,10,0
+17,Male,Western Cape,Rural,6771.6,Secondary,Yes,6,0
+19,Male,Mpumalanga,Urban,5863.04,Secondary,Yes,10,0
+16,Female,KwaZulu-Natal,Rural,8603.64,Tertiary,Yes,11,0
+15,Female,Northern Cape,Urban,8178.43,Secondary,No,5,1
+13,Female,KwaZulu-Natal,Urban,13028.32,Primary,Yes,9,0
+17,Male,North West,Rural,,,,2,1
+17,Male,Free State,Urban,12550.16,Secondary,Yes,11,0
+14,Female,Gauteng,Urban,6187.57,Secondary,Yes,3,0
+18,Male,Northern Cape,Urban,6026.44,Secondary,No,4,0
+19,Male,North West,Urban,11474.65,None,Yes,6,0
+19,Female,Mpumalanga,Urban,1266.62,Secondary,No,3,0
+12,Female,Mpumalanga,Urban,6739.19,Primary,Yes,5,0
+12,Female,Mpumalanga,Rural,7047.39,Primary,No,3,1
+15,Female,Free State,Urban,10336.53,Secondary,Yes,3,0
+14,Male,KwaZulu-Natal,Urban,10455.47,Primary,Yes,3,0
+17,Male,Gauteng,Urban,5021.76,Secondary,Yes,4,0
+19,Female,Mpumalanga,Urban,6342.51,Primary,Yes,10,0
+16,Male,Northern Cape,Rural,9780.42,Secondary,No,8,1
+14,Female,Western Cape,Rural,4804.32,Secondary,Yes,5,0
+15,Female,Gauteng,Urban,12824.47,Primary,Yes,1,0
+15,Male,Free State,Rural,10436.7,Primary,Yes,6,0
+14,Female,Gauteng,Urban,8686.04,Tertiary,Yes,9,0
+15,Male,Western Cape,Urban,9563.76,Secondary,Yes,11,0
+14,Male,Northern Cape,Urban,6132.44,Secondary,Yes,1,0
+13,Male,Western Cape,Urban,5494.83,None,No,5,1
+14,Male,Eastern Cape,Urban,6301.11,Secondary,Yes,8,0
+18,Female,Northern Cape,Rural,9999.87,Secondary,Yes,3,0
+14,Male,Gauteng,Urban,8804.06,Secondary,Yes,9,0
+15,Female,Mpumalanga,Rural,6309.14,Secondary,Yes,11,0
+19,Female,Gauteng,Urban,10998.33,Primary,Yes,11,0
+18,Female,Gauteng,Urban,7304.21,Primary,Yes,8,0
+15,Female,Northern Cape,Rural,5226.76,Tertiary,Yes,3,0
+12,Male,Eastern Cape,Urban,9017.37,Tertiary,No,1,1
+12,Male,Gauteng,Urban,,,,5,0
+19,Female,North West,Rural,,,,3,0
+19,Female,Limpopo,Rural,7979.58,Primary,Yes,5,0
+18,Male,Limpopo,Rural,5370.34,None,Yes,9,0
+13,Female,Gauteng,Rural,6983.38,Primary,Yes,4,0
+19,Male,Mpumalanga,Rural,4133.07,Primary,No,4,0
+12,Female,Free State,Rural,12835.73,Secondary,Yes,3,0
+14,Male,Free State,Urban,5354.03,Secondary,Yes,3,0
+15,Female,Northern Cape,Urban,6272.0,Primary,Yes,5,0
+12,Female,Limpopo,Urban,,,,8,0
+12,Male,Gauteng,Urban,2493.54,Tertiary,No,3,1
+13,Female,Free State,Rural,2197.8,Primary,Yes,3,0
+18,Female,Gauteng,Rural,9523.81,Secondary,Yes,8,0
+18,Male,Northern Cape,Urban,6220.21,Primary,Yes,11,0
+17,Female,Limpopo,Urban,,,,8,0
+13,Male,Western Cape,Rural,10413.49,Primary,Yes,3,0
+14,Male,North West,Urban,,,,10,0
+18,Female,North West,Rural,6901.95,Primary,Yes,10,0
+15,Female,Free State,Urban,4415.48,Primary,Yes,2,0
+19,Female,North West,Urban,9213.75,Secondary,Yes,10,0
+13,Female,Western Cape,Urban,13328.3,Secondary,Yes,2,0
+19,Female,Gauteng,Urban,555.84,Primary,No,6,0
+12,Female,Northern Cape,Rural,,,,7,0
+15,Female,Western Cape,Rural,11426.35,Secondary,No,2,1
+15,Male,Northern Cape,Rural,6314.09,Secondary,Yes,7,0
+12,Female,Northern Cape,Urban,3475.83,Tertiary,No,3,1
+13,Male,Limpopo,Urban,9683.85,Secondary,Yes,1,0
+12,Female,Gauteng,Rural,12006.61,Secondary,Yes,8,0
+19,Female,North West,Rural,11562.09,Secondary,Yes,3,0
+17,Male,Limpopo,Urban,9463.64,Tertiary,Yes,3,0
+5,Female,Northern Cape,Urban,,,,6,0
+16,Female,Free State,Rural,,,,4,0
+16,Male,North West,Urban,11460.98,Primary,No,9,1
+19,Female,North West,Urban,11239.83,Primary,Yes,4,0
+14,Female,Gauteng,Urban,3447.77,Secondary,Yes,10,0
+18,Female,Eastern Cape,Urban,9457.92,Secondary,Yes,9,0
+12,Male,KwaZulu-Natal,Rural,10611.3,Secondary,Yes,8,0
+12,Female,KwaZulu-Natal,Rural,11528.46,None,Yes,3,0
+14,Female,KwaZulu-Natal,Urban,7700.04,Secondary,Yes,1,0
+14,Female,Eastern Cape,Urban,4569.73,Tertiary,Yes,1,0
+19,Female,Gauteng,Urban,5991.54,Primary,Yes,1,0
+19,Male,Eastern Cape,Urban,,,,8,0
+14,Male,KwaZulu-Natal,Urban,7795.76,Secondary,Yes,6,0
+15,Female,Limpopo,Rural,7012.46,Tertiary,No,6,1
+19,Female,Western Cape,Urban,16580.15,Tertiary,Yes,11,0
+17,Male,Northern Cape,Urban,11578.71,Secondary,Yes,11,0
+19,Male,Eastern Cape,Urban,11878.19,Secondary,Yes,3,0
+12,Female,Gauteng,Urban,9885.41,Tertiary,Yes,8,0
+19,Male,Gauteng,Urban,6530.73,Secondary,Yes,8,0
+15,Female,Western Cape,Urban,6898.44,Primary,Yes,6,0
+14,Male,Free State,Rural,7264.52,Secondary,Yes,9,0
+12,Male,North West,Urban,8752.93,Primary,Yes,10,0
+19,Male,KwaZulu-Natal,Urban,9556.68,Primary,No,6,0
+15,Male,Free State,Rural,8002.83,Tertiary,Yes,8,0
+17,Female,KwaZulu-Natal,Rural,6837.61,Secondary,Yes,6,0
+19,Male,Western Cape,Urban,5623.54,Secondary,Yes,1,0
+15,Male,KwaZulu-Natal,Rural,2429.4,Primary,Yes,4,0
+17,Female,Western Cape,Urban,13133.52,Primary,Yes,5,0
+14,Male,Mpumalanga,Urban,16822.12,Primary,Yes,7,0
+19,Male,Free State,Urban,12797.35,Primary,Yes,8,0
+17,Female,Free State,Rural,2963.74,Secondary,No,8,1
+12,Male,North West,Rural,11148.07,Primary,Yes,6,0
+14,Female,Western Cape,Urban,12095.11,Secondary,Yes,10,0
+12,Female,Eastern Cape,Urban,6386.25,Primary,Yes,9,0
+16,Female,Mpumalanga,Rural,9955.71,Tertiary,Yes,4,0
+13,Female,Limpopo,Urban,6174.79,Primary,Yes,8,0
+19,Male,KwaZulu-Natal,Urban,14115.72,None,Yes,3,0
+17,Female,Mpumalanga,Rural,9461.48,None,Yes,4,0
+13,Male,Western Cape,Rural,4331.38,Secondary,Yes,10,0
+13,Male,Northern Cape,Rural,10679.23,Secondary,Yes,4,0
+17,Male,KwaZulu-Natal,Rural,12235.12,Secondary,Yes,6,0
+14,Male,Gauteng,Urban,8792.53,Secondary,Yes,9,0
+19,Male,Free State,Rural,9917.77,None,Yes,6,0
+16,Male,Western Cape,Rural,7720.99,Secondary,Yes,1,0
+12,Male,Gauteng,Urban,3462.88,Secondary,Yes,5,0
+15,Male,North West,Urban,7393.06,Primary,No,8,1
+12,Male,Limpopo,Urban,10092.16,Primary,No,5,1
+15,Male,Limpopo,Urban,,,,6,0
+12,Female,Gauteng,Rural,11203.06,Primary,Yes,3,0
+17,Female,Free State,Rural,6431.27,Secondary,Yes,8,0
+16,Female,North West,Urban,6693.64,Primary,Yes,10,0
+19,Male,Northern Cape,Urban,11324.48,Primary,Yes,11,0
+15,Female,Free State,Rural,8887.41,Primary,Yes,4,0
+19,Female,Mpumalanga,Urban,6353.11,Tertiary,Yes,4,0
+19,Female,Limpopo,Urban,12135.22,Tertiary,Yes,11,0
+19,Male,Mpumalanga,Urban,5245.06,Primary,Yes,5,0
+18,Male,KwaZulu-Natal,Urban,5092.2,Primary,Yes,10,0
+14,Male,Eastern Cape,Urban,0.0,Primary,Yes,9,0
+12,Male,Western Cape,Urban,5784.13,Secondary,Yes,8,0
+19,Female,North West,Urban,13234.87,None,Yes,7,0
+12,Female,Free State,Urban,0.0,Secondary,Yes,5,0
+19,Female,Limpopo,Urban,4192.32,Secondary,Yes,9,0
+15,Female,Mpumalanga,Urban,9756.27,Tertiary,Yes,9,0
+14,Male,KwaZulu-Natal,Rural,0.0,Primary,Yes,10,0
+14,Male,Western Cape,Rural,5957.21,Tertiary,Yes,10,0
+17,Male,Western Cape,Urban,12563.45,Secondary,Yes,2,0
+18,Female,Free State,Urban,16172.1,Primary,Yes,4,0
+17,Male,North West,Rural,9160.99,Primary,Yes,8,0
+17,Male,Northern Cape,Urban,,,,1,0
+17,Female,Free State,Urban,4159.49,Primary,Yes,5,0
+17,Female,Mpumalanga,Rural,1000000.0,Primary,Yes,8,0
+17,Male,Eastern Cape,Rural,9123.85,Secondary,Yes,2,0
+16,Male,Gauteng,Rural,15431.72,Secondary,Yes,2,0
+14,Male,Northern Cape,Urban,11883.22,Tertiary,Yes,8,0
+17,Male,North West,Rural,8336.43,Primary,Yes,10,0
+19,Male,KwaZulu-Natal,Urban,6659.17,Tertiary,Yes,9,0
+14,Male,Northern Cape,Rural,20058.85,Primary,Yes,7,0
+14,Female,Limpopo,Urban,10506.38,Secondary,Yes,8,0
+13,Female,North West,Urban,5324.99,Primary,Yes,5,0
+16,Female,Eastern Cape,Rural,7101.51,Primary,No,4,1
+17,Male,Limpopo,Urban,4490.18,Tertiary,Yes,4,0
+12,Female,Northern Cape,Urban,0.0,Primary,No,8,1
+15,Male,Gauteng,Rural,,,,3,0
+18,Male,Gauteng,Urban,15129.82,Secondary,Yes,3,0
+19,Female,Eastern Cape,Urban,1477.77,Secondary,Yes,9,0
+12,Male,Western Cape,Urban,8221.05,Secondary,Yes,10,0
+16,Male,KwaZulu-Natal,Rural,5172.38,Secondary,Yes,4,0
+15,Female,Western Cape,Rural,10086.01,None,Yes,2,0
+16,Female,Gauteng,Urban,7310.68,Secondary,Yes,3,0
+19,Female,Gauteng,Rural,2559.78,Tertiary,Yes,3,0
+14,Male,Mpumalanga,Urban,4075.59,None,Yes,7,0
+15,Female,Limpopo,Rural,4678.8,Primary,Yes,8,0
+14,Female,Northern Cape,Urban,13377.27,Secondary,Yes,11,0
+19,Male,KwaZulu-Natal,Urban,13173.04,Secondary,Yes,6,0
+12,Female,Eastern Cape,Rural,6754.61,Secondary,Yes,4,0
+19,Female,Northern Cape,Urban,12911.21,Primary,Yes,6,0
+12,Female,Mpumalanga,Urban,,,,11,0
+15,Male,Gauteng,Urban,6693.35,Primary,Yes,1,0
+15,Male,Eastern Cape,Rural,8228.47,Secondary,Yes,10,0
+17,Male,Gauteng,Urban,9139.3,Secondary,Yes,8,0
+16,Male,KwaZulu-Natal,Urban,5778.22,Primary,Yes,1,0
+17,Female,Limpopo,Urban,8087.46,Secondary,Yes,5,0
+16,Male,Northern Cape,Urban,11149.29,Tertiary,No,7,1
+17,Male,Northern Cape,Urban,8518.16,Secondary,No,2,1
+14,Female,Western Cape,Rural,8171.13,Tertiary,Yes,9,0
+15,Female,Eastern Cape,Rural,9976.72,Secondary,Yes,5,0
+12,Female,Mpumalanga,Urban,10666.82,Secondary,Yes,4,0
+16,Male,Western Cape,Urban,7749.54,None,Yes,2,0
+19,Male,KwaZulu-Natal,Urban,6103.28,Primary,Yes,3,0
+16,Male,Mpumalanga,Urban,8756.81,Primary,Yes,6,0
+12,Female,Limpopo,Rural,1624.15,Secondary,Yes,8,0
+17,Female,Limpopo,Urban,7158.71,Tertiary,Yes,8,0
+16,Male,Limpopo,Urban,,,,5,0
+18,Female,Limpopo,Rural,1296.83,Secondary,Yes,5,0
+14,Female,Western Cape,Urban,695.26,Secondary,Yes,10,0
+15,Female,North West,Rural,12189.41,Secondary,No,7,1
+12,Male,Mpumalanga,Urban,8055.93,Primary,Yes,7,0
+15,Female,Eastern Cape,Rural,2951.8,Secondary,Yes,6,0
+18,Female,KwaZulu-Natal,Rural,9964.26,Primary,Yes,1,0
+16,Male,Free State,Rural,11954.62,None,Yes,4,0
+16,Male,Gauteng,Rural,10033.94,Tertiary,Yes,6,0
+19,Female,Eastern Cape,Urban,7245.16,Primary,No,2,0
+18,Female,Gauteng,Urban,8929.95,None,Yes,6,0
+12,Male,Mpumalanga,Rural,11605.99,Tertiary,Yes,11,0
+19,Male,Eastern Cape,Urban,6123.02,Primary,Yes,3,0
+14,Female,Limpopo,Urban,,,,6,0
+19,Female,Limpopo,Urban,6971.23,Primary,No,8,0
+13,Female,Free State,Urban,1546.34,Primary,No,5,1
+12,Female,Gauteng,Urban,11666.27,Primary,Yes,9,0
+13,Male,KwaZulu-Natal,Urban,16229.09,Primary,Yes,9,0
+18,Female,Mpumalanga,Rural,4504.82,Secondary,Yes,2,0
+17,Female,Limpopo,Urban,1000000.0,Secondary,Yes,4,0
+13,Male,North West,Urban,4632.02,Secondary,Yes,9,0
+14,Female,Western Cape,Urban,8531.15,Tertiary,Yes,4,0
+19,Male,Western Cape,Urban,14032.05,None,No,4,0
+17,Female,KwaZulu-Natal,Rural,5918.24,Secondary,Yes,10,0
+19,Female,Western Cape,Urban,7941.25,Secondary,No,6,0
+13,Male,Gauteng,Urban,793.99,Tertiary,Yes,3,0
+19,Male,Limpopo,Rural,5343.18,None,Yes,9,0
+18,Female,Limpopo,Urban,374.91,Secondary,No,4,0
+17,Female,North West,Urban,9716.71,Tertiary,Yes,10,0
+18,Female,Eastern Cape,Urban,11326.55,Primary,No,9,0
+13,Male,Western Cape,Rural,7113.46,Tertiary,Yes,1,0
+18,Female,Gauteng,Urban,9143.55,None,Yes,10,0
+14,Male,Northern Cape,Urban,1000000.0,Secondary,No,7,1
+13,Male,Western Cape,Urban,10962.18,Tertiary,Yes,3,0
+13,Female,KwaZulu-Natal,Urban,8517.85,Secondary,No,3,1
+13,Male,Eastern Cape,Urban,,,,7,1
+12,Female,Western Cape,Urban,11759.92,None,Yes,3,0
+19,Female,Gauteng,Urban,6441.83,Tertiary,Yes,8,0
+12,Female,Western Cape,Rural,2918.48,Secondary,Yes,11,0
+12,Female,KwaZulu-Natal,Rural,6244.26,None,Yes,11,0
+14,Female,Northern Cape,Urban,391.72,Secondary,Yes,6,0
+17,Male,Mpumalanga,Rural,3000.44,Secondary,Yes,7,0
+19,Male,Free State,Urban,-5000.0,Primary,Yes,10,0
+18,Female,Northern Cape,Urban,8906.85,Primary,Yes,10,0
+16,Female,Western Cape,Rural,9225.76,None,Yes,6,0
+13,Male,Limpopo,Rural,8012.84,Secondary,Yes,1,0
+18,Male,North West,Rural,5228.54,Secondary,Yes,11,0
+13,Male,Limpopo,Urban,7782.16,Secondary,No,7,1
+14,Male,Northern Cape,Rural,6251.17,Tertiary,Yes,1,0
+13,Female,Limpopo,Urban,1496.87,Tertiary,Yes,10,0
+12,Female,Gauteng,Rural,,,,9,0
+19,Male,Limpopo,Rural,11558.16,None,Yes,9,0
+16,Female,Eastern Cape,Urban,14353.18,Secondary,No,3,1
+15,Male,Mpumalanga,Rural,10605.1,Secondary,Yes,4,0
+13,Female,Western Cape,Urban,14174.79,Secondary,Yes,9,0
+18,Male,Limpopo,Urban,8341.55,Secondary,Yes,9,0
+12,Female,KwaZulu-Natal,Urban,14969.5,Primary,Yes,3,0
+15,Male,Mpumalanga,Urban,16217.95,Tertiary,Yes,5,0
+16,Male,Mpumalanga,Rural,1066.12,Primary,Yes,3,0
+15,Female,Limpopo,Rural,8885.97,Secondary,Yes,10,0
+12,Male,Mpumalanga,Urban,8345.72,None,Yes,2,0
+19,Female,North West,Rural,6303.58,Tertiary,No,1,0
+19,Female,Limpopo,Rural,9967.66,Primary,Yes,10,0
+17,Male,Gauteng,Urban,8164.5,None,Yes,2,0
+19,Female,Northern Cape,Rural,5058.2,Primary,Yes,8,0
+17,Female,Eastern Cape,Urban,7893.58,Primary,Yes,11,0
+15,Female,Free State,Rural,12818.38,Primary,No,1,1
+14,Female,Mpumalanga,Urban,8730.15,Secondary,Yes,3,0
+18,Female,Gauteng,Urban,10507.82,Secondary,Yes,7,0
+18,Male,Western Cape,Urban,6891.79,None,Yes,7,0
+15,Female,Western Cape,Rural,9808.26,Primary,Yes,2,0
+13,Female,Eastern Cape,Urban,3163.14,Tertiary,Yes,9,0
+13,Female,Mpumalanga,Urban,6001.12,Secondary,Yes,3,0
+19,Female,North West,Urban,7589.33,Secondary,Yes,2,0
+18,Female,Eastern Cape,Rural,2894.66,Secondary,Yes,3,0
+18,Male,Mpumalanga,Urban,4679.13,Primary,Yes,2,0
+17,Female,Gauteng,Urban,9252.45,None,Yes,8,0
+14,Male,Northern Cape,Urban,8519.33,Primary,No,1,1
+12,Male,North West,Urban,,,,3,0
+13,Male,Free State,Rural,5597.96,Tertiary,Yes,5,0
+18,Male,Western Cape,Rural,8230.41,Secondary,Yes,11,0
+17,Female,KwaZulu-Natal,Urban,5312.53,None,Yes,11,0
+16,Male,Gauteng,Urban,10824.51,Primary,Yes,8,0
+17,Male,Western Cape,Rural,12762.98,Primary,Yes,7,0
+13,Female,Limpopo,Urban,9933.3,Secondary,Yes,6,0
+13,Female,KwaZulu-Natal,Rural,12244.78,None,Yes,1,0
+17,Female,Western Cape,Rural,8130.0,Tertiary,Yes,10,0
+12,Male,Eastern Cape,Rural,11222.38,Primary,Yes,1,0
+15,Female,North West,Urban,8301.67,Tertiary,Yes,1,0
+13,Female,Western Cape,Urban,3900.29,Secondary,Yes,10,0
+17,Male,Free State,Rural,,,,8,0
+18,Female,Northern Cape,Urban,,,,8,0
+17,Female,Eastern Cape,Rural,17356.52,Secondary,Yes,7,0
+14,Female,Gauteng,Urban,6663.65,Secondary,Yes,6,0
+15,Female,Gauteng,Rural,10580.15,Secondary,Yes,4,0
+16,Male,Gauteng,Urban,7950.35,Secondary,Yes,1,0
+12,Female,Gauteng,Urban,3065.55,Tertiary,Yes,9,0
+19,Female,Northern Cape,Urban,405.91,Secondary,Yes,1,0
+16,Male,Western Cape,Rural,10996.06,Secondary,Yes,4,0
+15,Female,Mpumalanga,Rural,14197.36,Tertiary,Yes,3,0
+15,Male,Western Cape,Urban,5060.79,Primary,No,8,1
+15,Female,Limpopo,Urban,1373.23,None,No,6,1
+16,Male,North West,Rural,6699.35,Secondary,Yes,5,0
+18,Male,KwaZulu-Natal,Urban,4251.53,Secondary,Yes,4,0
+15,Male,Mpumalanga,Urban,5398.74,Tertiary,Yes,1,0
+17,Male,Mpumalanga,Urban,10441.49,Secondary,Yes,5,0
+16,Female,Western Cape,Urban,7798.15,Secondary,Yes,4,0
+19,Male,Mpumalanga,Urban,4681.97,Secondary,Yes,10,0
+15,Female,Limpopo,Urban,10354.0,None,Yes,8,0
+17,Male,KwaZulu-Natal,Urban,10667.49,Secondary,Yes,2,0
+18,Male,Free State,Urban,6651.77,Tertiary,Yes,8,0
+14,Male,Northern Cape,Urban,8551.67,Primary,Yes,1,0
+18,Female,Western Cape,Urban,10082.01,Secondary,Yes,4,0
+19,Male,Northern Cape,Urban,9704.41,Secondary,Yes,3,0
+15,Female,Free State,Rural,8162.46,Primary,Yes,5,0
+19,Female,Western Cape,Urban,13730.34,Primary,Yes,5,0
+16,Female,Western Cape,Urban,10330.72,Tertiary,No,5,1
+13,Female,KwaZulu-Natal,Urban,,,,2,1
+15,Female,Northern Cape,Urban,6221.32,Primary,Yes,8,0
+13,Female,Gauteng,Urban,5767.65,Primary,Yes,3,0
+17,Female,Northern Cape,Urban,10528.48,Secondary,Yes,4,0
+14,Female,North West,Rural,5509.01,Secondary,Yes,1,0
+12,Female,North West,Urban,6300.4,Secondary,Yes,7,0
+19,Male,Western Cape,Rural,12232.09,None,No,8,0
+18,Male,Gauteng,Urban,8766.53,Tertiary,Yes,2,0
+14,Male,Eastern Cape,Urban,12794.13,Primary,Yes,11,0
+15,Male,Free State,Urban,,,,7,0
+13,Male,Limpopo,Urban,3293.31,Secondary,Yes,1,0
+18,Female,Gauteng,Urban,7591.47,Primary,Yes,11,0
+13,Female,Limpopo,Rural,11959.8,Tertiary,Yes,3,0
+16,Female,Northern Cape,Urban,1000000.0,Tertiary,Yes,6,0
+13,Female,Northern Cape,Rural,9678.84,Primary,Yes,6,0
+16,Female,Limpopo,Rural,7843.05,Tertiary,Yes,6,0
+17,Female,Free State,Urban,980.85,Secondary,Yes,11,0
+18,Female,Gauteng,Urban,,,,6,0
+18,Male,Eastern Cape,Urban,4650.13,Primary,Yes,2,0
+12,Male,Western Cape,Urban,3329.39,Secondary,No,4,1
+15,Male,KwaZulu-Natal,Urban,8036.56,Primary,Yes,10,0
+16,Male,Northern Cape,Urban,276.59,Tertiary,Yes,5,0
+12,Female,North West,Urban,5302.84,None,Yes,7,0
+13,Female,Free State,Urban,18204.7,Secondary,Yes,7,0
+13,Female,KwaZulu-Natal,Rural,10600.89,Primary,No,3,1
+12,Male,Eastern Cape,Rural,4474.3,Primary,No,8,1
+18,Female,Mpumalanga,Rural,13616.66,Secondary,Yes,10,0
+13,Female,Western Cape,Urban,4031.83,Tertiary,Yes,6,0
+19,Female,Northern Cape,Urban,5785.22,Secondary,Yes,5,0
+17,Male,Western Cape,Urban,3404.59,Tertiary,No,4,1
+17,Female,KwaZulu-Natal,Urban,9024.32,Primary,Yes,7,0
+19,Male,Western Cape,Urban,13474.52,Secondary,Yes,4,0
+12,Male,Mpumalanga,Rural,4003.98,Secondary,Yes,5,0
+19,Male,KwaZulu-Natal,Rural,0.0,None,Yes,5,0
+16,Male,Northern Cape,Urban,12363.87,Secondary,No,2,1
+16,Female,Gauteng,Urban,14215.2,Secondary,Yes,1,0
+12,Male,North West,Urban,19.68,Secondary,Yes,3,0
+19,Male,KwaZulu-Natal,Urban,9840.22,Secondary,Yes,11,0
+16,Female,Mpumalanga,Urban,8906.02,Secondary,Yes,3,1
+5,Female,KwaZulu-Natal,Urban,4850.1,None,Yes,2,0
+19,Male,KwaZulu-Natal,Urban,,,,2,0
+18,Female,Northern Cape,Rural,11967.0,Secondary,No,3,0
+16,Male,KwaZulu-Natal,Urban,8716.28,Primary,Yes,1,0
+17,Male,North West,Rural,9017.71,None,Yes,6,0
+16,Male,Western Cape,Urban,5512.92,Secondary,Yes,5,0
+18,Male,Northern Cape,Urban,4792.36,Secondary,Yes,6,0
+14,Female,North West,Urban,0.0,Primary,No,9,1
+15,Male,Northern Cape,Urban,7087.89,Secondary,Yes,7,0
+13,Female,North West,Urban,13755.31,Secondary,Yes,1,0
+19,Female,Mpumalanga,Rural,4438.98,Primary,Yes,3,0
+14,Female,North West,Rural,1910.34,Secondary,Yes,6,0
+16,Female,Limpopo,Urban,9742.66,Secondary,Yes,1,0
+17,Male,North West,Urban,10480.32,Secondary,No,3,1
+12,Female,Gauteng,Rural,5656.38,Secondary,Yes,11,0
+16,Male,Gauteng,Urban,6604.94,None,Yes,7,0
+17,Female,Free State,Urban,9055.61,Secondary,Yes,4,0
+15,Female,Limpopo,Urban,7377.8,Primary,Yes,3,0
+16,Male,Limpopo,Rural,12000.52,Tertiary,Yes,10,1
+18,Male,Western Cape,Rural,17748.97,Tertiary,No,7,0
+12,Male,Limpopo,Urban,1163.35,Secondary,Yes,1,0
+17,Female,Western Cape,Rural,12919.02,Primary,Yes,8,0
+17,Female,Free State,Rural,8421.04,Primary,Yes,1,0
+5,Male,Free State,Urban,13552.8,Primary,Yes,5,0
+15,Male,Mpumalanga,Urban,,,,10,0
+16,Male,Gauteng,Urban,8244.63,Primary,No,9,1
+15,Male,North West,Rural,11040.09,Secondary,Yes,6,0
+19,Female,North West,Urban,6423.38,Primary,No,1,0
+13,Male,Eastern Cape,Rural,,,,11,0
+13,Male,Northern Cape,Urban,11243.45,Primary,Yes,8,0
+19,Male,Mpumalanga,Rural,4622.69,Tertiary,Yes,6,0
+16,Male,Eastern Cape,Urban,10569.49,Tertiary,Yes,11,0
+18,Female,Eastern Cape,Urban,8122.99,Secondary,Yes,6,0
+15,Male,KwaZulu-Natal,Rural,0.0,Secondary,Yes,11,0
+12,Female,KwaZulu-Natal,Rural,5702.47,Secondary,Yes,6,0
+17,Male,Eastern Cape,Rural,9339.35,Secondary,Yes,5,0
+17,Male,Limpopo,Urban,6376.0,Primary,No,9,1
+16,Female,Northern Cape,Rural,1000000.0,Primary,Yes,2,0
+18,Male,Mpumalanga,Urban,13283.0,Secondary,No,9,0
+13,Female,Eastern Cape,Urban,8677.5,Secondary,Yes,4,0
+13,Female,North West,Urban,9774.96,Secondary,Yes,1,0
+17,Male,Northern Cape,Urban,6106.9,Primary,Yes,5,0
+16,Female,KwaZulu-Natal,Urban,10125.96,Primary,Yes,3,0
+15,Female,North West,Rural,15339.28,None,No,4,1
+13,Female,KwaZulu-Natal,Urban,5059.71,None,Yes,7,0
+15,Female,KwaZulu-Natal,Rural,14668.05,Primary,No,7,1
+18,Female,Northern Cape,Urban,9594.26,None,No,4,0
+13,Female,KwaZulu-Natal,Urban,4522.27,Primary,Yes,1,1
+13,Female,Free State,Urban,16849.56,Tertiary,No,3,1
+14,Female,Gauteng,Rural,9566.56,None,Yes,11,0
+13,Male,Free State,Rural,10705.91,Secondary,No,8,1
+19,Male,Gauteng,Rural,6922.59,Primary,Yes,6,0
+5,Female,KwaZulu-Natal,Rural,4814.69,Tertiary,Yes,7,0
+19,Male,Mpumalanga,Urban,8671.25,Secondary,No,4,0
+16,Female,Mpumalanga,Urban,14325.85,Primary,Yes,4,0
+16,Female,Gauteng,Rural,6761.36,Secondary,Yes,9,0
+15,Male,North West,Urban,7893.0,Primary,Yes,10,0
+19,Female,Northern Cape,Urban,13825.31,Secondary,Yes,6,0
+19,Female,KwaZulu-Natal,Urban,6798.69,Primary,Yes,2,0
+19,Female,Northern Cape,Urban,10041.11,Tertiary,Yes,4,0
+18,Female,Free State,Urban,11509.4,Secondary,Yes,6,0
+13,Male,Mpumalanga,Urban,7212.88,Primary,Yes,4,0
+12,Female,Limpopo,Urban,9239.35,Secondary,Yes,10,0
+15,Female,Free State,Urban,10644.41,Primary,Yes,7,0
+19,Female,Free State,Urban,6396.34,Tertiary,Yes,3,0
+19,Male,Gauteng,Urban,11263.06,Secondary,Yes,6,0
+14,Female,Western Cape,Rural,1000000.0,Secondary,No,7,1
+15,Male,Free State,Urban,5299.65,Primary,Yes,3,0
+19,Male,KwaZulu-Natal,Urban,1891.84,Tertiary,Yes,3,0
+15,Female,Eastern Cape,Rural,5986.15,Secondary,No,3,1
+13,Female,Eastern Cape,Urban,4737.99,Primary,Yes,11,0
+14,Male,KwaZulu-Natal,Urban,6396.5,Primary,Yes,3,0
+15,Female,Western Cape,Rural,10447.97,Primary,Yes,10,0
+12,Male,Western Cape,Urban,1097.3,Tertiary,No,3,1
+12,Male,Gauteng,Rural,101.32,Primary,Yes,3,0
+16,Female,Mpumalanga,Rural,5003.68,Secondary,Yes,9,0
+14,Female,Northern Cape,Rural,9844.92,None,Yes,4,0
+14,Male,Western Cape,Urban,9155.46,Primary,Yes,3,0
+16,Male,Limpopo,Urban,4939.75,Secondary,Yes,8,0
+15,Male,Gauteng,Urban,12677.63,Tertiary,Yes,1,0
+14,Male,North West,Urban,5366.36,Secondary,Yes,5,0
+12,Female,Gauteng,Urban,9849.82,Tertiary,Yes,1,0
+12,Female,Free State,Urban,6548.85,Secondary,Yes,7,0
+19,Female,Northern Cape,Urban,4524.89,None,Yes,5,0
+13,Female,North West,Urban,5579.73,Primary,Yes,2,0
+14,Female,North West,Urban,10936.0,Secondary,No,7,1
+15,Male,Limpopo,Urban,9444.1,Tertiary,Yes,11,0
+16,Female,Limpopo,Rural,11872.41,Tertiary,Yes,7,0
+16,Female,Limpopo,Urban,9443.94,Primary,No,9,1
+15,Female,Gauteng,Urban,1555.32,Primary,Yes,3,0
+18,Female,Northern Cape,Rural,16457.66,Primary,Yes,11,0
+17,Female,Gauteng,Urban,9500.68,Tertiary,Yes,6,0
+13,Male,Eastern Cape,Urban,10058.69,Tertiary,Yes,6,0
+16,Male,Free State,Urban,6492.65,Secondary,No,4,1
+14,Male,Free State,Rural,,,,11,0
+13,Female,Limpopo,Urban,3627.57,Secondary,Yes,11,0
+14,Male,Eastern Cape,Urban,,,,1,0
+18,Male,Western Cape,Urban,0.0,Primary,Yes,7,0
+12,Female,Western Cape,Rural,10708.83,Secondary,Yes,2,0
+13,Female,Limpopo,Urban,3681.8,None,Yes,6,0
+19,Female,Gauteng,Urban,9107.98,Primary,Yes,8,0
+16,Male,Limpopo,Rural,13429.36,Tertiary,Yes,5,0
+13,Male,Mpumalanga,Urban,11290.87,Secondary,No,7,1
+13,Female,North West,Rural,12897.53,Secondary,Yes,3,0
+13,Female,Free State,Urban,12483.39,Secondary,Yes,11,0
+17,Male,Western Cape,Rural,,,,8,0
+13,Male,KwaZulu-Natal,Urban,10393.32,Secondary,Yes,8,0
+14,Female,Western Cape,Rural,1100.33,Secondary,Yes,4,0
+12,Female,Free State,Rural,5252.25,Secondary,Yes,8,0
+18,Male,North West,Urban,,,,5,0
+15,Female,Free State,Urban,6459.85,Primary,Yes,11,0
+13,Male,KwaZulu-Natal,Urban,527.99,Primary,No,2,1
+16,Male,Limpopo,Urban,16054.8,Secondary,Yes,3,0
+13,Male,Eastern Cape,Urban,10249.0,Primary,Yes,7,0
+16,Male,KwaZulu-Natal,Urban,11057.91,Secondary,Yes,11,0
+14,Female,Free State,Urban,4078.12,Primary,Yes,11,0
+16,Female,Free State,Urban,9136.23,Primary,Yes,9,0
+19,Male,Mpumalanga,Urban,9030.3,Primary,No,8,0
+15,Male,Mpumalanga,Rural,4714.06,Tertiary,Yes,1,0
+12,Male,Northern Cape,Urban,7320.72,Primary,Yes,1,0
+16,Male,Mpumalanga,Urban,1998.13,Secondary,Yes,10,0
+16,Male,Gauteng,Urban,,,,2,1
+12,Female,Eastern Cape,Urban,11895.39,None,Yes,5,0
+15,Female,North West,Urban,5012.61,Secondary,Yes,1,0
+13,Female,KwaZulu-Natal,Urban,15629.19,Secondary,Yes,4,0
+16,Female,Free State,Urban,2255.63,Secondary,Yes,1,0
+12,Male,Northern Cape,Rural,6959.3,Tertiary,Yes,2,0
+19,Male,Northern Cape,Urban,5374.28,Primary,Yes,2,0
+19,Male,North West,Rural,7279.28,None,Yes,4,0
+14,Male,Eastern Cape,Rural,13485.9,Tertiary,Yes,8,0
+12,Male,KwaZulu-Natal,Rural,4062.18,Primary,No,8,1
+14,Female,Western Cape,Rural,6194.92,Secondary,Yes,9,0
+19,Male,Mpumalanga,Urban,10618.02,Secondary,No,3,0
+15,Female,Limpopo,Urban,8372.64,Primary,Yes,2,0
+13,Female,Northern Cape,Rural,8700.7,Secondary,Yes,1,0
+12,Female,Mpumalanga,Urban,4138.89,Primary,Yes,10,0
+18,Female,Mpumalanga,Urban,7713.67,Primary,Yes,10,0
+19,Male,Gauteng,Rural,,,,9,0
+19,Female,Eastern Cape,Rural,1561.92,Tertiary,Yes,2,0
+18,Female,Limpopo,Rural,5210.76,Primary,Yes,8,0
+17,Female,Western Cape,Rural,737.83,Secondary,Yes,3,0
+19,Male,Free State,Rural,10147.9,Tertiary,Yes,1,0
+16,Male,Gauteng,Urban,,,,11,0
+15,Male,Mpumalanga,Rural,7266.36,Secondary,Yes,1,0
+12,Female,Mpumalanga,Urban,3977.92,Secondary,Yes,10,0
+18,Female,Limpopo,Urban,4095.01,Primary,Yes,2,0
+16,Male,Limpopo,Rural,6811.77,Secondary,No,5,1
+18,Female,Limpopo,Urban,6796.51,Secondary,No,9,0
+12,Male,Mpumalanga,Urban,11647.33,Tertiary,Yes,11,0
+14,Male,Northern Cape,Urban,5324.5,Tertiary,Yes,2,0
+12,Female,KwaZulu-Natal,Rural,9740.31,Tertiary,Yes,4,0
+17,Female,Mpumalanga,Urban,6778.12,Tertiary,Yes,2,0
+12,Female,Gauteng,Rural,,,,1,0
+12,Female,Eastern Cape,Urban,6678.5,Secondary,Yes,3,0
+17,Male,Western Cape,Rural,9346.15,Tertiary,Yes,4,0
+15,Male,Free State,Rural,11659.73,Primary,Yes,10,0
+19,Male,Western Cape,Urban,6992.11,Tertiary,Yes,5,0
+12,Male,Mpumalanga,Urban,3184.25,Secondary,Yes,5,0
+17,Male,Gauteng,Urban,11998.86,Secondary,Yes,7,0
+16,Female,Mpumalanga,Rural,4407.32,Secondary,Yes,10,0
+14,Male,Eastern Cape,Rural,9043.29,Tertiary,No,9,1
+14,Male,Northern Cape,Rural,7900.67,Primary,Yes,9,0
+12,Male,Free State,Urban,7365.72,Secondary,Yes,7,0
+15,Female,Eastern Cape,Rural,6052.09,Secondary,Yes,5,0
+15,Female,Mpumalanga,Rural,10480.6,Primary,Yes,9,0
+16,Female,Gauteng,Rural,0.0,Secondary,Yes,8,0
+12,Female,Eastern Cape,Rural,12545.88,Secondary,Yes,10,0
+14,Male,North West,Urban,4349.97,Secondary,Yes,9,0
+15,Male,Gauteng,Urban,9631.83,Primary,No,3,1
+12,Female,Northern Cape,Rural,9420.1,Secondary,Yes,8,0
+18,Female,Mpumalanga,Rural,13099.91,Secondary,No,5,0
+15,Male,Limpopo,Urban,8791.0,Secondary,Yes,4,0
+17,Male,Free State,Urban,4683.56,Primary,No,1,1
+18,Female,KwaZulu-Natal,Urban,1580.98,Tertiary,Yes,9,0
+19,Female,Limpopo,Urban,,,,10,0
+15,Female,Mpumalanga,Urban,167.3,Secondary,Yes,10,0
+14,Female,North West,Rural,5486.06,Secondary,Yes,9,0
+13,Male,Limpopo,Rural,6829.48,Primary,Yes,10,0
+18,Male,Free State,Urban,5240.34,Secondary,Yes,3,0
+19,Male,Gauteng,Urban,8167.09,Secondary,No,1,0
+16,Female,North West,Urban,7055.58,Secondary,No,6,1
+16,Female,North West,Urban,6689.25,Secondary,Yes,11,0
+14,Male,Eastern Cape,Rural,0.0,Secondary,Yes,6,0
+15,Male,Free State,Rural,2821.18,Primary,Yes,6,0
+12,Male,Limpopo,Urban,10570.63,Secondary,Yes,6,0
+15,Male,Eastern Cape,Rural,11217.03,Primary,Yes,5,0
+14,Female,North West,Rural,644.89,Primary,Yes,5,0
+16,Male,Eastern Cape,Rural,4741.13,Tertiary,No,1,1
+15,Male,Western Cape,Urban,12287.86,Secondary,Yes,7,0
+16,Male,Free State,Rural,5127.84,Secondary,Yes,4,0
+18,Male,Northern Cape,Urban,7554.04,Secondary,Yes,3,0
+19,Male,Gauteng,Urban,13767.22,Tertiary,Yes,8,0
+12,Male,North West,Urban,6553.69,Secondary,Yes,4,0
+18,Male,Free State,Urban,5981.12,Secondary,Yes,11,0
+16,Female,Northern Cape,Urban,7371.85,Primary,Yes,4,0
+16,Female,Northern Cape,Urban,15413.64,Tertiary,Yes,8,0
+13,Female,Mpumalanga,Urban,9784.81,Tertiary,Yes,1,0
+13,Female,Eastern Cape,Rural,8076.33,Tertiary,Yes,9,0
+18,Male,Northern Cape,Rural,5902.56,Primary,Yes,7,0
+17,Female,Western Cape,Urban,10155.27,Primary,Yes,2,0
+18,Female,Free State,Rural,10638.8,Primary,Yes,11,0
+13,Male,KwaZulu-Natal,Rural,3707.29,Primary,Yes,6,0
+16,Male,KwaZulu-Natal,Rural,10746.51,Tertiary,Yes,8,0
+14,Female,North West,Urban,7395.39,None,No,5,1
+18,Female,Eastern Cape,Rural,8099.19,None,Yes,5,0
+16,Male,Northern Cape,Rural,4462.84,Primary,No,5,1
+14,Female,Free State,Rural,6400.07,Primary,Yes,10,0
+14,Male,North West,Urban,,,,8,0
+13,Male,Limpopo,Urban,3687.13,Secondary,No,1,1
+18,Male,Northern Cape,Rural,9508.36,Secondary,Yes,9,0
+15,Male,Eastern Cape,Urban,6579.53,None,Yes,9,0
+12,Female,KwaZulu-Natal,Urban,2801.45,Secondary,Yes,9,0
+13,Male,Mpumalanga,Urban,16708.21,Secondary,No,5,1
+13,Male,Free State,Rural,3501.38,Primary,Yes,9,0
+15,Female,Gauteng,Rural,12368.41,Secondary,Yes,3,0
+12,Male,North West,Urban,2094.15,Secondary,Yes,5,0
+16,Female,Free State,Rural,9826.01,Secondary,No,6,1
+17,Female,Free State,Urban,6997.76,Secondary,Yes,8,0
+18,Female,Western Cape,Rural,5483.77,None,Yes,11,0
+17,Male,Limpopo,Rural,8786.97,Tertiary,Yes,4,0
+16,Female,Northern Cape,Rural,8249.04,Tertiary,Yes,6,0
+19,Female,Northern Cape,Rural,4750.14,Tertiary,Yes,6,0
+13,Male,Eastern Cape,Urban,4569.04,None,Yes,5,0
+12,Female,Gauteng,Rural,1704.34,Tertiary,Yes,1,0
+13,Female,Gauteng,Urban,9222.26,Tertiary,Yes,11,0
+14,Female,Eastern Cape,Rural,2984.78,Tertiary,Yes,7,0
+13,Female,Mpumalanga,Rural,8015.9,None,Yes,10,0
+13,Female,Northern Cape,Rural,10369.91,Secondary,Yes,8,0
+16,Male,Mpumalanga,Urban,8832.22,Tertiary,Yes,1,0
+16,Female,Free State,Rural,,,,10,0
+16,Female,Free State,Urban,11635.25,Secondary,No,6,1
+17,Male,KwaZulu-Natal,Urban,6368.11,Tertiary,Yes,4,0
+14,Male,Gauteng,Rural,2663.36,Secondary,Yes,6,0
+19,Male,KwaZulu-Natal,Urban,6865.09,Secondary,Yes,9,0
+19,Female,Limpopo,Rural,10347.19,Secondary,Yes,5,0
+16,Male,Eastern Cape,Urban,5302.34,Tertiary,No,8,1
+12,Female,Eastern Cape,Urban,,,,5,1
+17,Female,Free State,Rural,4918.7,Secondary,Yes,2,0
+15,Male,Northern Cape,Urban,5463.15,Secondary,Yes,4,0
+12,Male,Mpumalanga,Urban,,,,2,0
+18,Female,Gauteng,Rural,10734.84,Secondary,Yes,7,0
+18,Male,KwaZulu-Natal,Urban,7787.03,Tertiary,Yes,7,0
+12,Female,Mpumalanga,Rural,4080.95,Tertiary,Yes,3,0
+16,Male,KwaZulu-Natal,Urban,6415.16,None,Yes,7,0
+15,Male,Limpopo,Rural,0.0,Secondary,Yes,1,0
+15,Male,Limpopo,Rural,11111.89,None,Yes,1,0
+17,Female,Mpumalanga,Rural,7317.01,Primary,Yes,9,0
+15,Male,Mpumalanga,Urban,0.0,Secondary,Yes,6,0
+18,Female,Mpumalanga,Rural,2173.27,Tertiary,Yes,5,0
+14,Female,KwaZulu-Natal,Rural,6313.62,Tertiary,Yes,6,0
+16,Female,Western Cape,Rural,2743.32,Primary,Yes,6,0
+15,Female,Mpumalanga,Urban,11173.4,None,Yes,1,0
+17,Male,Northern Cape,Rural,9674.29,Secondary,Yes,5,0
+18,Female,Gauteng,Rural,9438.14,Secondary,Yes,9,0
+14,Female,Gauteng,Urban,0.0,Primary,No,2,1
+13,Male,KwaZulu-Natal,Urban,,,,3,0
+13,Female,Mpumalanga,Rural,5209.53,Tertiary,Yes,1,0
+14,Male,Free State,Urban,,,,2,0
+18,Female,Eastern Cape,Rural,6339.3,Tertiary,No,2,0
+17,Male,Western Cape,Rural,,,,4,0
+14,Female,Northern Cape,Rural,8860.88,Secondary,Yes,7,0
+16,Male,Free State,Urban,-5000.0,Secondary,Yes,6,0
+16,Female,Limpopo,Urban,10721.53,Primary,Yes,11,0
+13,Female,Free State,Rural,7448.35,Tertiary,Yes,8,0
+15,Male,KwaZulu-Natal,Urban,1000000.0,Secondary,Yes,9,0
+17,Male,Western Cape,Rural,12559.9,Secondary,Yes,6,0
+13,Male,North West,Urban,,,,7,0
+15,Male,North West,Urban,6070.91,None,Yes,4,0
+15,Female,Mpumalanga,Urban,13352.11,Primary,No,4,1
+19,Female,Mpumalanga,Urban,12030.32,Secondary,Yes,9,0
+16,Male,KwaZulu-Natal,Rural,2358.29,Secondary,Yes,9,0
+18,Female,Mpumalanga,Urban,12343.29,Primary,Yes,4,0
+5,Male,Eastern Cape,Urban,7382.51,Secondary,No,8,1
+18,Male,Western Cape,Urban,4556.35,Secondary,Yes,10,0
+12,Female,KwaZulu-Natal,Urban,83.18,Secondary,Yes,11,0
+14,Female,Gauteng,Urban,-5000.0,Secondary,Yes,6,0
+16,Female,Limpopo,Rural,7951.09,Tertiary,Yes,3,0
+15,Female,KwaZulu-Natal,Urban,14349.31,Secondary,Yes,1,0
+17,Female,KwaZulu-Natal,Urban,-5000.0,Secondary,Yes,4,0
+12,Female,North West,Urban,5668.45,Primary,Yes,1,0
+18,Female,Northern Cape,Rural,9557.37,Primary,No,1,0
+15,Male,Northern Cape,Urban,11305.0,None,Yes,3,0
+12,Male,Eastern Cape,Urban,8343.83,Secondary,Yes,8,0
+12,Male,Gauteng,Rural,5651.38,Primary,No,9,1
+19,Male,North West,Urban,5871.31,Primary,No,1,0
+12,Male,Gauteng,Urban,9541.89,Secondary,Yes,4,0
+17,Female,Eastern Cape,Urban,9651.92,Primary,No,6,1
+16,Male,Northern Cape,Rural,6828.18,Primary,Yes,9,0
+17,Male,KwaZulu-Natal,Urban,,,,7,0
+13,Male,Mpumalanga,Rural,2837.91,Secondary,No,8,1
+15,Male,Mpumalanga,Rural,10478.76,Primary,Yes,3,0
+16,Male,Free State,Urban,0.0,Secondary,Yes,4,0
+19,Male,Limpopo,Urban,12736.72,Secondary,Yes,4,0
+16,Male,Eastern Cape,Urban,12144.63,Secondary,Yes,10,0
+16,Female,Limpopo,Rural,,,,8,0
+18,Female,Limpopo,Urban,10391.72,Tertiary,Yes,10,0
+16,Male,Northern Cape,Urban,10115.1,None,No,3,1
+19,Female,Northern Cape,Urban,7532.51,Primary,Yes,6,0
+17,Female,KwaZulu-Natal,Rural,2504.44,Primary,Yes,3,0
+16,Female,North West,Urban,11869.09,Primary,No,8,1
+14,Female,Northern Cape,Rural,13628.92,Primary,Yes,9,0
+15,Male,Mpumalanga,Urban,3165.64,Primary,Yes,10,0
+16,Female,Limpopo,Urban,2354.98,Secondary,Yes,8,0
+15,Female,Free State,Urban,7452.81,Secondary,Yes,9,0
+14,Female,Western Cape,Urban,5495.1,Primary,Yes,5,0
+14,Male,Eastern Cape,Urban,8579.8,Secondary,Yes,3,0
+15,Male,Free State,Urban,12831.98,Primary,Yes,4,0
+12,Male,Mpumalanga,Rural,-5000.0,Primary,Yes,5,0
+13,Male,Northern Cape,Rural,14325.09,Secondary,Yes,9,0
+18,Male,North West,Rural,6373.33,None,Yes,9,0
+12,Male,KwaZulu-Natal,Urban,10047.12,None,Yes,3,0
+12,Male,Western Cape,Urban,10474.9,Secondary,Yes,7,0
+17,Female,Gauteng,Urban,10941.36,Tertiary,Yes,6,0
+18,Female,Free State,Rural,8247.63,Secondary,No,2,0
+18,Female,North West,Rural,,,,5,0
+12,Male,Gauteng,Urban,9156.09,Tertiary,No,8,1
+16,Male,Western Cape,Urban,5478.87,Secondary,Yes,2,0
+17,Male,Eastern Cape,Urban,967.78,Secondary,No,2,1
+17,Male,Eastern Cape,Urban,3123.26,Tertiary,Yes,7,0
+14,Male,Limpopo,Urban,7583.05,Secondary,Yes,4,0
+19,Female,Western Cape,Rural,4852.77,Primary,Yes,2,0
+18,Female,Western Cape,Rural,4862.02,Secondary,Yes,11,0
+12,Male,Gauteng,Urban,15197.0,Secondary,Yes,6,0
+14,Male,North West,Urban,,,,11,0
+15,Male,Gauteng,Rural,6991.7,Secondary,Yes,2,0
+13,Male,KwaZulu-Natal,Urban,10688.14,Tertiary,Yes,10,0
+19,Female,Eastern Cape,Urban,6318.93,Tertiary,Yes,2,0
+19,Male,Eastern Cape,Urban,8442.89,Tertiary,Yes,7,0
+19,Male,Limpopo,Urban,9766.51,Tertiary,Yes,1,0
+17,Male,KwaZulu-Natal,Urban,6329.58,Tertiary,Yes,7,0
+15,Male,Eastern Cape,Rural,5259.0,None,Yes,10,0
+19,Female,Gauteng,Urban,1000000.0,Primary,Yes,5,0
+15,Male,KwaZulu-Natal,Urban,10456.45,Secondary,Yes,1,0
+16,Male,Gauteng,Rural,0.0,Tertiary,Yes,6,0
+19,Female,Eastern Cape,Urban,5327.46,Secondary,Yes,7,0
+13,Female,Eastern Cape,Rural,4874.91,Secondary,Yes,1,0
+15,Female,North West,Rural,5515.45,Primary,Yes,9,0
+15,Male,Free State,Urban,,,,7,1
+13,Male,Free State,Rural,8076.82,Secondary,Yes,1,1
+19,Female,Limpopo,Urban,2441.48,Primary,Yes,3,0
+13,Female,Gauteng,Rural,6467.14,Primary,Yes,5,0
+15,Female,Gauteng,Urban,10166.95,Primary,Yes,4,0
+13,Female,Mpumalanga,Rural,7121.42,Primary,Yes,2,0
+15,Female,KwaZulu-Natal,Rural,,,,1,0
+15,Female,Northern Cape,Urban,9324.88,Primary,No,2,1
+16,Male,Free State,Urban,14472.77,Secondary,No,4,1
+12,Male,Eastern Cape,Rural,9845.7,None,Yes,11,0
+15,Male,Limpopo,Rural,13203.77,Tertiary,Yes,4,0
+19,Female,Northern Cape,Urban,5689.54,Primary,Yes,9,0
+14,Female,Western Cape,Rural,7966.55,Secondary,Yes,8,0
+17,Female,Limpopo,Urban,7885.79,Secondary,No,4,1
+18,Female,Western Cape,Urban,8474.72,Primary,Yes,5,0
+12,Female,Western Cape,Urban,9762.08,Tertiary,Yes,1,0
+12,Female,Western Cape,Urban,4324.12,Secondary,Yes,9,0
+12,Male,North West,Rural,10589.33,Secondary,Yes,2,0
+16,Male,North West,Urban,1488.46,Primary,No,8,1
+15,Female,North West,Rural,2656.97,Tertiary,Yes,10,0
+16,Male,Northern Cape,Urban,16542.5,Secondary,Yes,5,0
+15,Female,Limpopo,Urban,5959.52,Primary,Yes,10,0
+19,Male,Limpopo,Urban,10918.08,Primary,Yes,8,0
+16,Female,Eastern Cape,Urban,14793.16,Tertiary,Yes,11,0
+16,Female,North West,Urban,0.0,Secondary,Yes,3,0
+17,Male,Eastern Cape,Urban,12504.98,Secondary,Yes,6,0
+14,Male,KwaZulu-Natal,Urban,10595.77,Secondary,No,3,1
+16,Female,Eastern Cape,Urban,14561.59,Secondary,Yes,10,0
+17,Female,Northern Cape,Urban,3273.91,Primary,Yes,3,0
+13,Male,Free State,Urban,13805.02,Primary,Yes,7,0
+14,Male,Western Cape,Rural,5042.34,Secondary,Yes,11,0
+19,Female,North West,Rural,12219.11,Tertiary,Yes,4,0
+16,Male,Free State,Urban,7855.92,Primary,No,4,1
+18,Female,Eastern Cape,Urban,11083.08,Secondary,Yes,9,0
+12,Female,Western Cape,Urban,8195.48,Secondary,Yes,6,0
+13,Female,Limpopo,Rural,642.39,Secondary,Yes,10,0
+13,Female,Gauteng,Urban,0.0,Tertiary,Yes,4,0
+19,Male,Western Cape,Urban,8839.66,Secondary,No,9,0
+17,Male,Northern Cape,Urban,6945.06,None,Yes,9,0
+13,Male,Northern Cape,Urban,9592.88,Tertiary,No,5,1
+14,Male,Eastern Cape,Urban,6991.39,Secondary,No,1,1
+16,Male,KwaZulu-Natal,Rural,16072.31,Tertiary,Yes,2,0
+16,Male,Northern Cape,Urban,8922.15,Secondary,Yes,6,0
+18,Male,Northern Cape,Rural,6212.21,Tertiary,No,4,0
+19,Female,Eastern Cape,Urban,9349.45,Primary,Yes,8,0
+12,Male,Western Cape,Urban,6285.3,Primary,Yes,5,0
+17,Male,KwaZulu-Natal,Rural,8371.72,Tertiary,Yes,1,0
+12,Female,Free State,Urban,3130.08,Primary,Yes,8,0
+13,Male,Gauteng,Rural,7965.66,None,Yes,9,0
+19,Male,North West,Urban,,,,1,0
+18,Female,Limpopo,Urban,3509.05,Tertiary,Yes,8,0
+12,Male,Northern Cape,Rural,15902.94,Primary,No,2,1
+14,Male,Eastern Cape,Urban,3665.06,Tertiary,Yes,2,0
+16,Male,North West,Rural,8027.86,Secondary,Yes,4,0
+13,Female,Limpopo,Urban,-5000.0,,,2,0
+18,Male,Limpopo,Rural,9188.16,Tertiary,Yes,2,0
+12,Male,Free State,Urban,2902.46,Secondary,Yes,10,0
+17,Female,Free State,Urban,11361.43,Primary,Yes,3,0
+14,Male,Free State,Rural,16144.62,Primary,Yes,8,0
+14,Female,Mpumalanga,Rural,4641.84,Secondary,Yes,4,0
+12,Female,Mpumalanga,Rural,12867.88,Secondary,Yes,7,0
+16,Male,Limpopo,Rural,6472.48,Tertiary,Yes,7,1
+12,Female,Free State,Rural,14023.16,Secondary,Yes,3,0
+13,Female,Northern Cape,Urban,16754.0,Secondary,No,3,1
+12,Male,North West,Urban,7065.18,Secondary,No,2,1
+14,Female,North West,Urban,-5000.0,Primary,Yes,3,0
+18,Female,Mpumalanga,Urban,11792.34,None,Yes,2,0
+12,Male,Limpopo,Urban,,,,6,0
+16,Male,Eastern Cape,Urban,10007.16,None,No,9,1
+19,Male,Western Cape,Urban,6640.62,Primary,Yes,1,0
+18,Female,Western Cape,Rural,4462.03,Secondary,Yes,7,0
+17,Male,Mpumalanga,Urban,12641.39,Secondary,Yes,4,0
+15,Female,Eastern Cape,Urban,9279.16,Tertiary,Yes,11,0
+12,Female,Mpumalanga,Urban,2225.77,Primary,Yes,3,0
+16,Female,Western Cape,Rural,10747.5,None,Yes,8,0
+18,Female,Eastern Cape,Rural,9944.67,Primary,Yes,2,0
+16,Female,Free State,Rural,6698.8,Secondary,Yes,9,0
+17,Female,Limpopo,Urban,14479.25,Primary,Yes,8,0
+14,Female,North West,Urban,5527.31,Secondary,Yes,8,0
+16,Male,KwaZulu-Natal,Urban,7324.05,Tertiary,Yes,3,0
+18,Male,Limpopo,Urban,11074.59,Tertiary,Yes,4,0
+16,Female,Free State,Urban,8307.05,Primary,Yes,2,0
+16,Female,Western Cape,Urban,2462.31,Secondary,No,5,1
+16,Male,Free State,Urban,8735.2,Secondary,Yes,4,0
+13,Female,Mpumalanga,Rural,6342.44,Tertiary,Yes,6,0
+13,Male,Eastern Cape,Rural,11427.98,Tertiary,Yes,5,0
+14,Male,North West,Urban,8604.87,Primary,Yes,1,0
+12,Male,Northern Cape,Urban,8378.03,Secondary,Yes,10,0
+16,Female,Mpumalanga,Urban,3807.0,Primary,Yes,1,0
+17,Female,Limpopo,Urban,7079.9,None,Yes,6,0
+12,Male,Mpumalanga,Rural,11880.4,None,Yes,3,0
+17,Male,Limpopo,Urban,,,,3,0
+12,Male,Northern Cape,Rural,7869.8,Secondary,Yes,7,0
+14,Male,Gauteng,Urban,,,,1,0
+16,Male,North West,Rural,3264.63,Secondary,Yes,1,0
+16,Female,KwaZulu-Natal,Urban,7660.56,Primary,Yes,10,0
+15,Male,Free State,Rural,,,,6,1
+17,Female,Gauteng,Urban,15975.45,Primary,Yes,8,0
+12,Male,Mpumalanga,Rural,6178.16,Primary,Yes,1,0
+12,Female,Free State,Urban,7799.32,Secondary,Yes,10,0
+19,Female,Gauteng,Urban,2999.71,Primary,Yes,4,0
+19,Female,Eastern Cape,Rural,10448.96,Secondary,Yes,9,0
+13,Female,Eastern Cape,Rural,,,,4,0
+15,Female,Free State,Rural,13953.58,Secondary,Yes,10,0
+18,Female,Limpopo,Rural,12446.49,Primary,Yes,8,0
+19,Male,Limpopo,Rural,9405.63,Secondary,Yes,7,0
+18,Female,Mpumalanga,Urban,6119.71,Secondary,Yes,3,0
+13,Male,Gauteng,Urban,8818.67,Primary,Yes,7,0
+13,Female,Gauteng,Urban,7555.95,Secondary,Yes,7,0
+13,Female,Free State,Rural,11813.59,None,Yes,10,0
+17,Male,Western Cape,Urban,11304.93,Secondary,No,4,1
+17,Female,Eastern Cape,Urban,6814.34,Primary,Yes,2,0
+14,Male,Gauteng,Urban,2152.02,Secondary,Yes,9,0
+14,Male,Free State,Rural,13333.55,Secondary,Yes,1,0
+13,Male,Northern Cape,Urban,10327.5,Tertiary,Yes,7,0
+15,Male,KwaZulu-Natal,Urban,6722.04,Secondary,Yes,4,0
+12,Female,Northern Cape,Urban,,,,9,1
+17,Female,North West,Urban,8299.45,Secondary,Yes,2,0
+15,Male,Mpumalanga,Urban,13274.47,Tertiary,Yes,8,0
+16,Female,Gauteng,Rural,280.88,Secondary,Yes,7,0
+17,Female,North West,Rural,,,,7,0
+17,Male,North West,Rural,14396.22,Tertiary,Yes,5,0
+14,Female,Free State,Urban,10252.79,Secondary,Yes,10,0
+12,Male,Gauteng,Rural,15090.43,Tertiary,Yes,8,0
+12,Male,KwaZulu-Natal,Urban,3112.77,Tertiary,Yes,2,0
+19,Female,Free State,Urban,12288.79,Primary,Yes,2,0
+18,Female,Free State,Rural,12048.9,Secondary,No,9,0
+18,Female,Mpumalanga,Urban,1273.09,Primary,Yes,1,0
+18,Male,Mpumalanga,Urban,6817.99,Primary,Yes,6,0
+18,Male,Eastern Cape,Rural,7573.88,Primary,Yes,4,0
+16,Female,Eastern Cape,Urban,1521.78,Secondary,Yes,6,0
+16,Female,Limpopo,Rural,,,,1,1
+17,Female,Western Cape,Urban,11492.73,None,No,6,1
+13,Female,Gauteng,Rural,6436.31,Secondary,Yes,11,0
+14,Male,Gauteng,Urban,8968.53,Primary,Yes,8,0
+14,Female,North West,Urban,8997.48,Primary,Yes,7,0
+18,Male,Gauteng,Rural,7951.43,Primary,Yes,1,0
+17,Male,Gauteng,Urban,5179.27,Primary,Yes,6,1
+19,Female,Western Cape,Urban,10635.26,Secondary,Yes,7,0
+15,Female,Eastern Cape,Urban,1651.86,None,Yes,11,0
+13,Female,Eastern Cape,Urban,8034.35,Tertiary,No,4,1
+17,Male,KwaZulu-Natal,Urban,13541.95,Secondary,Yes,2,0
+13,Female,Gauteng,Urban,6210.51,Primary,Yes,10,0
+13,Female,Western Cape,Rural,5090.72,Primary,No,7,1
+13,Male,Eastern Cape,Urban,10902.06,Secondary,Yes,7,0
+5,Female,Western Cape,Urban,8653.73,Secondary,Yes,1,0
+18,Male,Northern Cape,Urban,10981.79,Primary,Yes,8,0
+14,Female,Gauteng,Urban,8153.99,Primary,Yes,3,0
+14,Male,KwaZulu-Natal,Rural,0.0,Tertiary,No,6,1
+18,Female,North West,Urban,12719.65,Primary,Yes,5,0
+13,Female,Eastern Cape,Rural,16280.11,Primary,Yes,1,0
+15,Male,Northern Cape,Urban,13136.16,Tertiary,Yes,6,0
+5,Male,Western Cape,Rural,0.0,Secondary,No,8,1
+17,Female,Mpumalanga,Urban,9804.35,Primary,No,1,1
+12,Male,Free State,Rural,6133.02,Secondary,Yes,2,0
+19,Male,Gauteng,Urban,3663.02,None,Yes,11,0
+18,Male,Gauteng,Urban,8490.93,Secondary,Yes,10,0
+15,Male,Northern Cape,Urban,7404.21,Secondary,Yes,6,0
+17,Female,Western Cape,Urban,10034.63,Tertiary,Yes,8,0
+18,Female,Limpopo,Rural,8226.32,Tertiary,Yes,6,0
+13,Male,Gauteng,Urban,3516.75,Tertiary,Yes,4,0
+14,Male,Limpopo,Urban,5693.59,Tertiary,Yes,4,0
+12,Male,Mpumalanga,Rural,5048.17,Secondary,Yes,9,0
+16,Male,Northern Cape,Urban,-5000.0,Primary,No,8,1
+16,Female,Western Cape,Rural,2513.42,Secondary,Yes,8,0
+15,Female,Western Cape,Rural,7155.73,Secondary,Yes,8,0
+13,Male,Free State,Urban,13695.02,Tertiary,No,2,1
+19,Male,Eastern Cape,Rural,5857.77,Primary,Yes,3,0
+12,Male,Eastern Cape,Urban,4970.28,Tertiary,Yes,10,1
+13,Female,North West,Urban,3274.85,Tertiary,Yes,1,0
+12,Male,KwaZulu-Natal,Urban,-5000.0,Tertiary,Yes,5,0
+15,Female,Northern Cape,Urban,12717.04,Tertiary,Yes,10,0
+15,Male,Mpumalanga,Rural,16010.73,Primary,Yes,10,0
+19,Female,Western Cape,Rural,9141.6,Primary,Yes,2,0
+16,Male,Free State,Urban,8559.97,Primary,Yes,10,0
+13,Female,Limpopo,Urban,5826.11,Primary,Yes,2,0
+17,Male,Northern Cape,Rural,6493.73,Secondary,Yes,7,0
+16,Male,North West,Urban,10516.7,Tertiary,Yes,11,0
+13,Male,Northern Cape,Urban,6740.5,Tertiary,Yes,3,0
+16,Female,North West,Urban,7350.87,Secondary,Yes,8,0
+17,Male,Western Cape,Rural,7898.61,None,Yes,9,0
+14,Female,KwaZulu-Natal,Urban,5636.69,Primary,Yes,8,0
+14,Female,North West,Rural,7700.08,None,Yes,6,0
+19,Male,Western Cape,Rural,0.0,Primary,Yes,5,0
+14,Male,Western Cape,Urban,10195.34,Secondary,No,2,1
+14,Male,KwaZulu-Natal,Urban,17407.09,None,Yes,3,0
+18,Female,Eastern Cape,Rural,5791.83,Primary,Yes,7,0
+12,Male,Northern Cape,Urban,9495.35,Primary,Yes,5,0
+18,Female,Gauteng,Rural,11406.31,Secondary,Yes,6,0
+18,Female,Gauteng,Rural,13120.86,Secondary,Yes,6,0
+19,Male,Limpopo,Rural,6942.71,Secondary,Yes,9,0
+18,Male,Limpopo,Rural,786.73,Secondary,Yes,1,0
+14,Male,Gauteng,Rural,,,,8,0
+17,Male,Mpumalanga,Rural,8514.51,Primary,No,8,1
+19,Male,Gauteng,Urban,6617.33,Secondary,Yes,5,0
+19,Male,Limpopo,Urban,,,,4,0
+15,Female,Free State,Urban,8574.72,Secondary,Yes,6,0
+19,Female,Limpopo,Rural,9447.05,Tertiary,Yes,1,0
+15,Female,Mpumalanga,Urban,9279.24,Primary,Yes,3,0
+19,Male,Northern Cape,Rural,7129.26,Secondary,Yes,6,0
+12,Female,Gauteng,Urban,9537.12,None,No,6,1
+14,Female,KwaZulu-Natal,Rural,6859.88,Secondary,Yes,11,0
+19,Female,Free State,Urban,10568.1,Primary,Yes,9,0
+14,Female,Western Cape,Rural,5490.23,Primary,Yes,6,0
+14,Female,Mpumalanga,Urban,8292.23,Secondary,Yes,6,0
+16,Male,Limpopo,Urban,1505.05,Secondary,Yes,1,0
+19,Male,KwaZulu-Natal,Urban,,,,5,0
+5,Female,North West,Rural,10269.95,Secondary,Yes,4,0
+16,Female,Eastern Cape,Urban,3865.06,Secondary,Yes,2,0
+13,Female,Gauteng,Urban,6719.6,Primary,Yes,1,0
+14,Male,Eastern Cape,Rural,0.0,Secondary,Yes,3,0
+14,Male,Mpumalanga,Rural,2527.7,Secondary,Yes,3,0
+16,Female,North West,Rural,3574.1,Secondary,Yes,5,0
+16,Male,North West,Urban,8407.0,Primary,No,1,1
+13,Male,North West,Urban,9333.64,Primary,Yes,7,0
+15,Female,Western Cape,Rural,7775.78,Secondary,Yes,1,0
+13,Male,Mpumalanga,Urban,6469.63,Tertiary,Yes,4,0
+16,Male,Northern Cape,Rural,6483.59,Secondary,Yes,6,0
+17,Female,Eastern Cape,Urban,-5000.0,None,Yes,1,0
+16,Male,Northern Cape,Urban,8851.28,Secondary,Yes,7,0
+17,Male,KwaZulu-Natal,Urban,6664.22,Tertiary,Yes,10,0
+12,Female,Free State,Urban,13173.2,None,Yes,7,0
+16,Male,Free State,Urban,15799.9,Tertiary,Yes,3,0
+12,Male,Northern Cape,Urban,3017.03,Tertiary,Yes,4,0
+15,Female,Gauteng,Rural,10090.04,None,No,2,1
+13,Female,KwaZulu-Natal,Urban,20359.56,Tertiary,Yes,11,0
+17,Female,Mpumalanga,Rural,9120.82,Primary,No,7,1
+13,Male,Limpopo,Rural,8461.77,Tertiary,Yes,4,0
+12,Female,Free State,Urban,7777.06,Secondary,Yes,10,0
+17,Male,Limpopo,Urban,9960.73,Secondary,No,7,1
+13,Female,KwaZulu-Natal,Rural,11019.6,Secondary,No,8,1
+16,Male,Eastern Cape,Rural,3020.93,Secondary,Yes,9,0
+14,Female,Free State,Rural,7894.07,None,Yes,9,0
+12,Female,Gauteng,Rural,0.0,Secondary,Yes,10,0
+13,Female,Gauteng,Rural,7162.73,Primary,Yes,6,0
+12,Female,North West,Urban,4389.25,Primary,Yes,2,0
+18,Male,Western Cape,Urban,,,,2,0
+12,Female,KwaZulu-Natal,Rural,1374.48,Secondary,Yes,11,1
+17,Female,Free State,Urban,5950.73,Primary,Yes,4,0
+18,Male,Western Cape,Rural,11866.18,Primary,Yes,9,0
+19,Female,KwaZulu-Natal,Urban,5294.67,Primary,Yes,3,0
+17,Male,Northern Cape,Urban,380.26,None,No,1,1
+14,Female,Mpumalanga,Rural,9030.13,Secondary,Yes,2,0
+18,Female,Mpumalanga,Urban,5653.88,Tertiary,No,9,0
+19,Female,North West,Urban,7256.46,Primary,Yes,5,0
+16,Male,North West,Urban,5080.52,Tertiary,Yes,8,0
+12,Female,Mpumalanga,Rural,,,,10,0
+13,Female,Eastern Cape,Urban,1767.71,Secondary,Yes,10,0
+15,Female,Free State,Rural,19333.98,Secondary,Yes,2,0
+12,Male,Mpumalanga,Urban,-5000.0,Tertiary,Yes,10,0
+19,Male,Eastern Cape,Rural,8733.79,Primary,No,7,0
+12,Female,Western Cape,Rural,5700.81,Secondary,Yes,8,0
+14,Male,Eastern Cape,Urban,5533.47,Secondary,Yes,3,0
+16,Female,Western Cape,Urban,4860.68,Secondary,Yes,1,0
+15,Female,KwaZulu-Natal,Urban,10405.03,Tertiary,Yes,4,0
+18,Female,Limpopo,Rural,2356.8,None,Yes,8,0
+18,Female,KwaZulu-Natal,Urban,9456.43,Secondary,No,3,0
+18,Female,Mpumalanga,Rural,,,,10,0
+19,Female,Western Cape,Urban,9094.12,Primary,Yes,2,0
+17,Female,Mpumalanga,Urban,11396.57,Primary,Yes,7,0
+17,Male,Free State,Urban,2901.92,Secondary,Yes,4,0
+13,Male,Gauteng,Urban,10714.97,Tertiary,Yes,6,0
+15,Male,Mpumalanga,Urban,8205.54,Secondary,Yes,5,0
+18,Male,Free State,Rural,14393.71,Tertiary,Yes,2,0
+17,Male,Eastern Cape,Rural,4579.17,Secondary,Yes,10,0
+19,Male,KwaZulu-Natal,Urban,19263.94,Primary,Yes,2,0
+13,Male,Eastern Cape,Rural,0.0,None,Yes,9,0
+16,Female,Gauteng,Rural,6681.98,None,Yes,11,0
+13,Female,Western Cape,Rural,1205.72,Primary,Yes,10,0
+17,Female,Free State,Urban,15404.22,Primary,Yes,2,0
+14,Female,Limpopo,Urban,6953.2,Secondary,Yes,8,0
+19,Male,Mpumalanga,Urban,7313.26,Secondary,No,5,0
+14,Male,Western Cape,Rural,9772.95,None,Yes,1,0
+18,Female,Limpopo,Urban,7980.78,Primary,Yes,1,0
+14,Female,Northern Cape,Urban,5624.95,Primary,Yes,4,0
+18,Male,Mpumalanga,Urban,2973.41,Secondary,Yes,2,0
+18,Female,Eastern Cape,Urban,8674.05,Primary,No,2,0
+17,Female,KwaZulu-Natal,Rural,9515.33,Primary,Yes,9,0
+14,Female,Free State,Urban,10781.51,Tertiary,Yes,3,0
+18,Female,Gauteng,Urban,15650.91,Tertiary,Yes,1,0
+15,Male,Gauteng,Rural,0.0,Primary,Yes,2,0
+16,Female,Eastern Cape,Rural,7729.13,Secondary,Yes,8,0
+13,Female,North West,Rural,12766.95,Primary,Yes,5,0
+13,Male,Gauteng,Rural,7501.91,Secondary,Yes,11,0
+17,Male,Free State,Rural,0.0,Secondary,Yes,7,0
+14,Female,Eastern Cape,Urban,2835.84,Primary,No,8,1
+14,Male,Western Cape,Urban,,,,1,0
+18,Female,Gauteng,Rural,9168.79,Primary,Yes,6,0
+19,Female,Eastern Cape,Rural,10690.08,Primary,No,5,0
+12,Male,Free State,Rural,4875.96,Primary,Yes,7,0
+18,Female,Mpumalanga,Urban,9039.53,Secondary,Yes,4,0
+16,Female,Mpumalanga,Urban,4216.55,Primary,Yes,8,0
+15,Female,Gauteng,Urban,9039.83,Primary,Yes,8,0
+13,Female,KwaZulu-Natal,Urban,8212.85,Primary,Yes,7,0
+18,Male,Mpumalanga,Urban,4716.56,None,Yes,11,0
+12,Male,KwaZulu-Natal,Rural,14232.73,Secondary,Yes,2,0
+12,Female,Western Cape,Urban,1177.46,Primary,No,9,1
+18,Male,Eastern Cape,Urban,7433.52,None,Yes,6,0
+17,Female,Limpopo,Urban,4628.38,Secondary,Yes,7,0
+13,Female,Free State,Rural,15336.81,Secondary,Yes,6,0
+17,Female,Eastern Cape,Urban,10393.59,Tertiary,Yes,2,0
+15,Female,Free State,Urban,5402.76,Secondary,Yes,8,0
+12,Female,Western Cape,Urban,,,,4,0
+12,Male,Northern Cape,Urban,,,,9,0
+16,Female,Gauteng,Rural,4214.9,Secondary,No,5,1
+15,Male,Free State,Rural,,,,3,0
+12,Male,Free State,Urban,9164.03,Tertiary,Yes,3,0
+15,Female,KwaZulu-Natal,Urban,9254.56,Primary,No,3,1
+13,Female,Eastern Cape,Rural,10664.14,Tertiary,Yes,2,0
+14,Female,Northern Cape,Urban,10690.5,Tertiary,Yes,9,0
+12,Female,North West,Urban,15082.82,Secondary,Yes,4,0
+16,Female,Gauteng,Urban,1127.45,Tertiary,Yes,6,0
+13,Male,Limpopo,Rural,3188.79,Secondary,No,1,1
+5,Female,North West,Urban,10648.81,Primary,Yes,3,0
+15,Female,Eastern Cape,Urban,3577.5,Secondary,Yes,3,0
+18,Male,Gauteng,Rural,2173.65,None,Yes,11,0
+17,Male,Free State,Urban,15463.38,Primary,Yes,10,0
+13,Female,Limpopo,Urban,1520.23,Secondary,Yes,2,0
+18,Male,KwaZulu-Natal,Rural,6594.91,Primary,Yes,8,0
+19,Female,Northern Cape,Urban,7762.53,Primary,Yes,9,0
+19,Male,KwaZulu-Natal,Rural,13236.55,Secondary,Yes,8,0
+12,Male,Western Cape,Urban,524.79,Tertiary,Yes,10,0
+15,Female,Gauteng,Urban,9661.9,None,Yes,3,0
+14,Male,KwaZulu-Natal,Urban,4438.49,Primary,Yes,7,0
+13,Male,North West,Urban,10510.44,Primary,No,8,1
+30,Male,KwaZulu-Natal,Urban,4372.77,Secondary,No,5,1
+16,Male,Mpumalanga,Rural,14289.23,Primary,Yes,2,0
+17,Male,Western Cape,Urban,4396.12,Secondary,No,6,1
+15,Male,Eastern Cape,Urban,0.0,Primary,Yes,6,0
+13,Female,Northern Cape,Urban,4844.6,Primary,Yes,11,0
+19,Female,Western Cape,Rural,6954.8,Tertiary,Yes,5,0
+13,Male,Mpumalanga,Urban,12329.42,None,Yes,9,0
+14,Female,Gauteng,Urban,2966.34,Secondary,Yes,10,0
+19,Female,North West,Urban,3045.42,None,Yes,4,0
+14,Female,Northern Cape,Urban,11842.31,Secondary,No,5,1
+16,Male,Northern Cape,Urban,2499.1,Secondary,Yes,4,0
+17,Female,Western Cape,Rural,,,,8,0
+16,Male,Gauteng,Urban,7365.4,Primary,Yes,8,0
+12,Female,Free State,Urban,8870.32,Primary,Yes,3,0
+12,Male,Mpumalanga,Urban,5000.61,Secondary,Yes,1,0
+16,Male,Free State,Rural,4292.02,Secondary,Yes,6,0
+17,Female,North West,Urban,9339.58,Secondary,Yes,2,0
+16,Female,Gauteng,Urban,4416.02,Secondary,Yes,2,0
+17,Male,Gauteng,Urban,2560.12,Primary,Yes,3,0
+17,Female,Mpumalanga,Urban,12911.2,Primary,Yes,8,0
+18,Female,Limpopo,Urban,9952.38,Primary,Yes,3,0
+19,Female,Free State,Urban,,,,7,0
+15,Male,KwaZulu-Natal,Urban,11135.87,Primary,Yes,10,0
+17,Male,Northern Cape,Urban,2927.43,Secondary,No,5,1
+14,Female,Limpopo,Urban,8385.48,Secondary,Yes,9,0
+17,Female,KwaZulu-Natal,Urban,3937.49,Tertiary,No,9,1
+17,Female,Mpumalanga,Urban,1393.56,Primary,No,7,1
+17,Male,Northern Cape,Rural,6211.2,Secondary,Yes,7,0
+18,Male,Eastern Cape,Rural,11926.13,Tertiary,Yes,7,0
+19,Female,KwaZulu-Natal,Rural,9099.65,Secondary,No,6,0
+18,Female,Limpopo,Rural,2436.42,Primary,No,4,0
+12,Female,KwaZulu-Natal,Rural,6070.63,Primary,Yes,5,0
+18,Female,KwaZulu-Natal,Rural,7428.53,None,Yes,10,0
+14,Female,Mpumalanga,Urban,1243.55,Primary,Yes,9,0
+14,Female,Free State,Rural,10852.69,Secondary,Yes,9,0
+18,Male,Eastern Cape,Urban,7085.06,None,Yes,8,0
+19,Female,Mpumalanga,Urban,2437.62,Primary,Yes,6,0
+16,Male,North West,Rural,2211.31,Secondary,Yes,6,0
+15,Female,Mpumalanga,Urban,12402.66,Secondary,Yes,1,0
+19,Female,Northern Cape,Urban,6476.75,Secondary,Yes,6,0
+18,Male,Eastern Cape,Rural,12761.41,Secondary,Yes,4,0
+17,Male,Gauteng,Urban,14288.62,Primary,Yes,4,0
+13,Male,North West,Urban,12089.79,Primary,No,1,1
+15,Male,Western Cape,Rural,5866.27,Primary,Yes,11,0
+15,Female,Mpumalanga,Rural,0.0,Secondary,Yes,4,0
+14,Male,KwaZulu-Natal,Urban,9251.99,Tertiary,Yes,5,0
+15,Female,Free State,Urban,1000000.0,None,Yes,5,0
+18,Male,Gauteng,Urban,7858.44,Secondary,Yes,5,0
+17,Female,Mpumalanga,Rural,40.74,Primary,Yes,4,0
+17,Female,Mpumalanga,Urban,5300.49,Secondary,Yes,1,0
+12,Female,Limpopo,Urban,7265.07,None,Yes,10,0
+17,Female,Limpopo,Urban,3608.05,Primary,Yes,8,0
+19,Female,Gauteng,Urban,0.0,Tertiary,Yes,3,0
+17,Female,Limpopo,Rural,7608.6,Secondary,No,4,1
+14,Male,KwaZulu-Natal,Urban,4860.5,Secondary,Yes,9,0
+17,Female,North West,Rural,15090.77,Primary,Yes,7,0
+12,Male,Western Cape,Urban,8404.13,Primary,Yes,9,0
+13,Male,Eastern Cape,Rural,9878.32,Primary,Yes,2,0
+18,Female,Western Cape,Rural,,,,9,0
+14,Male,Western Cape,Urban,8374.93,Tertiary,Yes,10,0
+19,Female,Eastern Cape,Urban,1390.8,Secondary,Yes,9,0
+13,Male,Limpopo,Urban,3839.33,Primary,Yes,11,0
+14,Female,Gauteng,Rural,12354.46,Tertiary,No,1,1
+16,Male,Eastern Cape,Urban,8837.85,Secondary,Yes,10,0
+15,Female,Northern Cape,Rural,6405.97,Secondary,Yes,10,0
+16,Female,North West,Rural,9944.68,Primary,Yes,4,0
+17,Female,Free State,Rural,10023.45,Secondary,No,3,1
+13,Female,Limpopo,Rural,15963.58,Secondary,No,6,1
+17,Male,Eastern Cape,Urban,8652.27,Tertiary,Yes,6,0
+15,Female,Northern Cape,Urban,3749.97,Secondary,Yes,3,0
+14,Male,Free State,Urban,7537.21,Primary,Yes,11,0
+15,Male,North West,Rural,10430.26,Secondary,Yes,9,0
+12,Male,North West,Rural,11982.64,Tertiary,Yes,3,0
+15,Female,Limpopo,Rural,1539.87,Primary,Yes,2,1
+12,Male,Eastern Cape,Urban,9014.83,Primary,Yes,8,0
+15,Male,Gauteng,Urban,4410.98,None,No,1,1
+18,Male,North West,Rural,5733.47,Secondary,No,9,0
+12,Female,Gauteng,Urban,11383.36,Primary,Yes,7,0
+13,Female,Gauteng,Urban,10984.99,Secondary,Yes,3,0
+17,Male,Limpopo,Rural,5287.39,Primary,No,2,1
+19,Female,Free State,Urban,1000000.0,Tertiary,Yes,10,0
+17,Female,Mpumalanga,Urban,5855.67,Primary,Yes,1,0
+16,Male,Western Cape,Urban,19566.81,Primary,Yes,1,0
+17,Male,Western Cape,Urban,,,,10,0
+14,Female,North West,Rural,4642.07,Secondary,Yes,8,0
+18,Male,Mpumalanga,Urban,13288.67,Primary,Yes,9,0
+15,Female,Free State,Urban,13429.85,Primary,Yes,10,0
+16,Female,Mpumalanga,Urban,15166.68,Primary,Yes,6,0
+14,Female,Limpopo,Rural,16351.97,Secondary,Yes,5,0
+14,Female,North West,Urban,10830.86,Secondary,Yes,2,0
+12,Female,Gauteng,Urban,6600.59,Secondary,No,3,1
+17,Female,North West,Urban,7189.53,Secondary,Yes,9,0
+13,Male,Western Cape,Urban,6831.7,Secondary,Yes,6,0
+19,Male,Free State,Urban,6384.98,Primary,Yes,8,0
+13,Female,Mpumalanga,Rural,12959.75,Tertiary,Yes,9,0
+16,Female,Free State,Rural,8002.88,Tertiary,Yes,9,0
+18,Female,Limpopo,Urban,11885.69,Primary,Yes,8,0
+13,Male,North West,Urban,10706.07,Primary,Yes,10,0
+15,Female,Eastern Cape,Rural,3605.38,Primary,Yes,8,0
+13,Male,North West,Urban,1131.29,Primary,Yes,3,0
+16,Female,Gauteng,Rural,3053.35,Secondary,Yes,3,0
+19,Female,North West,Urban,6293.17,Secondary,Yes,2,0
+13,Male,Northern Cape,Rural,8537.31,Secondary,Yes,1,0
+15,Male,Limpopo,Rural,5406.8,Secondary,Yes,4,0
+12,Female,KwaZulu-Natal,Rural,10812.26,Secondary,Yes,2,0
+18,Female,Limpopo,Rural,5889.26,Secondary,Yes,2,0
+16,Female,Mpumalanga,Urban,9027.83,None,Yes,11,0
+12,Male,KwaZulu-Natal,Rural,,,,11,0
+12,Male,Mpumalanga,Urban,14937.73,Secondary,Yes,5,0
+12,Male,Mpumalanga,Urban,4099.04,None,Yes,4,0
+14,Male,Gauteng,Rural,16833.68,None,Yes,1,0
+18,Male,Gauteng,Rural,5622.6,Tertiary,Yes,9,0
+19,Male,Western Cape,Rural,2639.77,Secondary,No,2,0
+17,Female,Western Cape,Urban,7132.34,Primary,Yes,5,0
+18,Female,Eastern Cape,Rural,20960.56,Secondary,Yes,7,0
+14,Male,KwaZulu-Natal,Rural,11580.82,Secondary,Yes,2,0
+17,Female,Free State,Urban,10411.86,Primary,Yes,8,0
+18,Female,North West,Urban,11180.75,None,Yes,11,0
+12,Male,North West,Urban,4921.63,Tertiary,Yes,2,0
+16,Female,Mpumalanga,Urban,9304.18,Primary,Yes,11,0
+17,Male,Western Cape,Rural,8010.01,Primary,No,3,1
+15,Male,Mpumalanga,Rural,15236.27,Secondary,Yes,5,0
+15,Female,Northern Cape,Rural,7565.25,Secondary,Yes,2,0
+13,Male,Northern Cape,Rural,6486.89,Primary,Yes,2,0
+17,Male,Free State,Urban,3340.8,Primary,Yes,4,0
+16,Male,Gauteng,Rural,8560.06,Primary,Yes,4,0
+19,Male,Gauteng,Urban,9171.81,Tertiary,Yes,8,0
+14,Male,Western Cape,Rural,3193.65,Primary,No,4,1
+12,Male,Western Cape,Urban,9812.65,Secondary,Yes,10,0
+13,Male,Northern Cape,Rural,8932.72,Tertiary,Yes,8,0
+15,Male,Gauteng,Urban,12053.78,Primary,Yes,7,0
+14,Female,KwaZulu-Natal,Urban,12849.47,Tertiary,Yes,10,0
+14,Female,KwaZulu-Natal,Rural,8377.12,Tertiary,Yes,4,0
+12,Female,Western Cape,Urban,3854.54,Tertiary,Yes,2,0
+19,Male,Mpumalanga,Rural,4677.51,Primary,Yes,9,0
+19,Male,Gauteng,Urban,15048.51,Secondary,Yes,2,0
+17,Female,KwaZulu-Natal,Rural,8661.96,Secondary,Yes,1,0
+15,Female,Gauteng,Urban,14984.62,Tertiary,Yes,8,0
+19,Female,Limpopo,Urban,,,,10,0
+16,Male,North West,Urban,11014.94,Secondary,Yes,9,0
+19,Female,Northern Cape,Urban,11754.89,Primary,Yes,1,0
+14,Female,Gauteng,Urban,,,,7,0
+12,Male,North West,Urban,9227.8,Secondary,Yes,2,0
+16,Female,Limpopo,Urban,3052.0,Secondary,No,1,1
+17,Male,Gauteng,Urban,6860.35,Secondary,Yes,11,0
+15,Male,Western Cape,Urban,10560.68,Secondary,Yes,5,0
+17,Male,North West,Rural,3898.66,Tertiary,Yes,1,0
+14,Female,Gauteng,Urban,10237.35,Primary,No,4,1
+16,Female,North West,Urban,2006.52,Secondary,Yes,2,0
+16,Male,Limpopo,Rural,12573.28,Primary,Yes,10,0
+16,Female,Gauteng,Urban,5342.25,Primary,Yes,10,0
+14,Female,Gauteng,Rural,3891.53,Secondary,Yes,6,1
+14,Female,Gauteng,Urban,2258.58,Tertiary,Yes,11,0
+17,Female,Free State,Urban,5682.58,Secondary,Yes,1,0
+13,Male,Western Cape,Urban,369.55,Secondary,No,8,1
+17,Female,Limpopo,Rural,5806.4,None,No,2,1
+15,Male,Free State,Rural,12397.95,Primary,Yes,10,0
+12,Male,Mpumalanga,Urban,7245.15,Secondary,Yes,11,0
+16,Female,Free State,Urban,3289.93,None,Yes,5,0
+13,Male,Northern Cape,Rural,8905.05,Primary,Yes,2,0
+12,Female,Northern Cape,Urban,8551.58,Secondary,Yes,2,0
+13,Female,Gauteng,Urban,,,,8,1
+19,Male,Free State,Rural,,,,7,0
+19,Male,Mpumalanga,Rural,9222.39,Secondary,Yes,6,0
+18,Male,Free State,Urban,11620.27,Secondary,No,2,0
+19,Male,Western Cape,Rural,7462.48,Tertiary,Yes,3,0
+17,Female,Western Cape,Rural,7698.35,Secondary,Yes,9,0
+19,Female,Mpumalanga,Urban,14635.76,Secondary,Yes,10,0
+14,Female,Free State,Urban,1457.68,Tertiary,Yes,1,0
+16,Male,North West,Urban,11871.78,Secondary,Yes,2,0
+17,Male,Western Cape,Rural,7556.83,Primary,Yes,8,0
+12,Male,Western Cape,Rural,,,,7,0
+18,Female,KwaZulu-Natal,Urban,5788.42,Secondary,No,8,0
+18,Male,Free State,Rural,8614.7,Secondary,No,7,0
+18,Female,Western Cape,Urban,7825.88,Secondary,Yes,4,0
+12,Male,Limpopo,Urban,,,,4,0
+12,Female,Free State,Urban,1000000.0,Secondary,Yes,7,0
+12,Female,Northern Cape,Urban,378.68,Tertiary,Yes,1,0
+12,Male,KwaZulu-Natal,Rural,1000000.0,Secondary,Yes,10,0
+18,Male,Western Cape,Urban,5950.82,Primary,No,5,0
+18,Female,KwaZulu-Natal,Rural,8604.92,Tertiary,No,7,0
+13,Female,Northern Cape,Urban,15852.34,Primary,Yes,1,0
+17,Male,Mpumalanga,Urban,5536.18,Secondary,Yes,7,0
+16,Male,Mpumalanga,Rural,3905.08,Tertiary,Yes,6,0
+30,Female,Free State,Urban,5142.02,Secondary,Yes,3,0
+19,Male,Northern Cape,Urban,8613.38,Secondary,Yes,1,0
+14,Female,Eastern Cape,Urban,10354.54,Secondary,Yes,5,0
+18,Female,Eastern Cape,Rural,10913.38,Primary,Yes,10,0
+14,Male,Free State,Urban,11310.83,Primary,Yes,4,0
+17,Male,Gauteng,Urban,11876.92,Secondary,No,4,1
+17,Male,KwaZulu-Natal,Urban,,,,1,0
+14,Male,KwaZulu-Natal,Urban,16212.56,Secondary,Yes,1,0
+18,Male,Mpumalanga,Rural,6580.93,Primary,Yes,5,0
+14,Female,Eastern Cape,Urban,8437.36,Secondary,Yes,6,0
+19,Female,Western Cape,Urban,13183.31,Secondary,Yes,5,0
+13,Male,Western Cape,Urban,10265.7,Secondary,Yes,2,0
+19,Male,Western Cape,Urban,0.0,Secondary,No,3,0
+15,Male,Mpumalanga,Rural,8022.54,Secondary,Yes,5,0
+18,Female,Northern Cape,Urban,11447.86,Secondary,Yes,11,0
+18,Male,North West,Rural,2626.12,Secondary,Yes,11,0
+16,Male,Eastern Cape,Urban,,,,5,0
+12,Female,Eastern Cape,Urban,9560.62,Primary,Yes,10,0
+15,Female,KwaZulu-Natal,Rural,12735.68,Tertiary,No,9,1
+17,Male,Gauteng,Urban,5232.27,Primary,Yes,3,0
+18,Male,Free State,Rural,11983.57,None,Yes,5,0
+14,Male,KwaZulu-Natal,Rural,8638.43,Tertiary,Yes,5,0
+15,Female,Northern Cape,Urban,15064.2,Primary,Yes,2,0
+16,Male,Free State,Urban,19144.2,Secondary,Yes,11,0
+17,Male,Eastern Cape,Rural,14153.32,Tertiary,Yes,4,0
+12,Male,Northern Cape,Urban,9922.07,Tertiary,Yes,11,0
+12,Female,Free State,Urban,17284.02,Tertiary,Yes,11,0
+16,Female,Limpopo,Urban,10413.91,Primary,No,7,1
+16,Male,North West,Urban,4368.22,Secondary,Yes,5,0
+14,Male,Eastern Cape,Rural,7842.91,Primary,No,8,1
+18,Female,Gauteng,Urban,11046.69,Secondary,Yes,2,0
+12,Female,Western Cape,Urban,11303.82,Tertiary,No,1,1
+17,Female,Limpopo,Rural,3498.94,Primary,Yes,9,0
+15,Female,Western Cape,Urban,3625.87,Secondary,Yes,10,0
+17,Female,North West,Urban,6634.76,Secondary,No,8,1
+13,Female,Free State,Rural,10138.17,Secondary,Yes,8,0
+13,Female,Mpumalanga,Urban,,,,7,1
+16,Female,Gauteng,Rural,8565.22,None,No,6,1
+14,Female,North West,Rural,4662.29,Secondary,Yes,5,0
+13,Male,Western Cape,Urban,14947.77,Tertiary,Yes,5,0
+12,Male,Limpopo,Urban,3711.77,Secondary,Yes,6,0
+17,Male,Eastern Cape,Urban,13209.36,None,Yes,1,0
+17,Female,Limpopo,Urban,10955.29,Secondary,Yes,11,0
+16,Male,Limpopo,Rural,13121.33,Primary,Yes,8,0
+18,Female,Mpumalanga,Rural,6222.27,Primary,Yes,2,0
+18,Female,Mpumalanga,Urban,7429.38,Tertiary,No,1,0
+15,Male,Northern Cape,Rural,8220.17,Secondary,Yes,9,0
+16,Female,Northern Cape,Rural,6094.41,Tertiary,Yes,3,0
+19,Male,Free State,Rural,,,,2,0
+15,Male,Northern Cape,Urban,14316.36,Secondary,Yes,10,0
+19,Male,KwaZulu-Natal,Urban,,,,5,0
+18,Female,Gauteng,Urban,5371.15,Secondary,Yes,11,0
+16,Male,KwaZulu-Natal,Rural,4937.02,Primary,Yes,9,0
+19,Female,KwaZulu-Natal,Urban,7622.33,Tertiary,Yes,6,0
+16,Male,Western Cape,Urban,7457.89,Primary,Yes,8,0
+16,Male,North West,Urban,11089.26,Primary,No,1,1
+18,Male,KwaZulu-Natal,Urban,8134.89,Secondary,Yes,7,0
+15,Female,Gauteng,Urban,-5000.0,Primary,Yes,5,0
+15,Female,Mpumalanga,Rural,9593.79,Primary,Yes,2,0
+16,Female,Free State,Urban,,,,10,0
+13,Male,Western Cape,Urban,,,,6,1
+14,Male,Mpumalanga,Urban,7510.71,None,Yes,5,0
+18,Female,Western Cape,Urban,14585.47,Primary,Yes,7,0
+14,Female,Gauteng,Urban,18166.48,Secondary,Yes,7,0
+14,Female,Limpopo,Urban,10824.92,Secondary,No,3,1
+15,Female,Eastern Cape,Urban,8911.96,Secondary,Yes,2,0
+15,Female,North West,Urban,10498.33,Secondary,Yes,7,0
+13,Female,Mpumalanga,Urban,3595.87,Primary,Yes,6,0
+14,Male,North West,Urban,8720.42,Tertiary,Yes,7,0
+14,Female,Limpopo,Rural,5074.7,None,Yes,11,0
+16,Male,Eastern Cape,Rural,10039.91,Secondary,Yes,8,0
+15,Male,North West,Urban,5094.56,Tertiary,Yes,4,0
+5,Female,North West,Urban,,,,1,0
+17,Female,Mpumalanga,Rural,512.12,Primary,Yes,8,0
+13,Male,Northern Cape,Urban,3307.02,Primary,Yes,8,0
+19,Female,Eastern Cape,Rural,9419.5,Secondary,Yes,3,0
+17,Female,Limpopo,Rural,4524.62,None,Yes,3,0
+17,Male,Eastern Cape,Urban,1000000.0,Tertiary,Yes,5,0
+19,Male,Gauteng,Urban,4184.44,Secondary,Yes,3,0
+18,Male,Northern Cape,Rural,9813.02,Secondary,Yes,5,0
+18,Female,Gauteng,Urban,4952.5,Primary,Yes,8,0
+13,Male,Limpopo,Urban,9541.88,Secondary,Yes,1,0
+17,Female,Mpumalanga,Urban,1860.85,Secondary,No,4,1
+14,Male,Mpumalanga,Urban,6187.27,Tertiary,Yes,2,0
+15,Male,Limpopo,Rural,4615.15,None,Yes,4,0
+13,Male,Western Cape,Rural,11532.93,None,Yes,9,0
+16,Female,Limpopo,Rural,9849.05,Primary,No,7,1
+19,Female,Northern Cape,Urban,3069.7,Primary,Yes,11,0
+17,Male,KwaZulu-Natal,Urban,7187.28,Secondary,Yes,9,0
+13,Male,Mpumalanga,Urban,4910.73,Tertiary,Yes,7,0
+12,Male,Free State,Urban,11801.03,Primary,Yes,10,0
+12,Female,Northern Cape,Urban,13086.1,Tertiary,Yes,8,0
+18,Male,Northern Cape,Rural,2233.42,None,Yes,1,0
+19,Female,Northern Cape,Rural,11306.81,Primary,Yes,5,0
+15,Male,North West,Urban,4706.82,None,Yes,9,0
+14,Male,Northern Cape,Rural,6988.33,Primary,No,5,1
+15,Male,Mpumalanga,Urban,8129.02,Tertiary,Yes,2,0
+15,Male,KwaZulu-Natal,Urban,1000000.0,None,Yes,6,0
+15,Male,KwaZulu-Natal,Rural,3984.6,Secondary,No,9,1
+19,Male,Northern Cape,Urban,11339.0,Secondary,No,3,0
+15,Female,Gauteng,Rural,3313.98,Tertiary,No,8,1
+16,Male,Mpumalanga,Rural,3037.63,Primary,No,4,1
+19,Female,Mpumalanga,Urban,8113.85,Primary,No,7,0
+16,Male,Eastern Cape,Rural,1000000.0,None,Yes,6,0
+19,Male,Western Cape,Urban,0.0,Secondary,Yes,3,0
+18,Female,Western Cape,Urban,12638.39,Primary,Yes,1,0
+13,Male,Gauteng,Urban,0.0,Tertiary,Yes,3,0
+12,Female,Western Cape,Urban,7416.25,Secondary,Yes,6,0
+15,Female,Eastern Cape,Rural,13310.46,Secondary,No,7,1
+18,Male,Limpopo,Urban,,,,9,0
+13,Female,Western Cape,Rural,6547.8,None,No,9,1
+12,Female,Mpumalanga,Urban,2268.2,Secondary,Yes,5,0
+17,Male,Limpopo,Urban,,,,2,0
+14,Female,Western Cape,Rural,,,,9,0
+16,Male,Mpumalanga,Urban,6044.03,Tertiary,Yes,5,0
+17,Male,Mpumalanga,Urban,5537.05,Tertiary,Yes,7,0
+19,Male,Northern Cape,Urban,5130.43,Primary,Yes,9,0
+12,Male,KwaZulu-Natal,Urban,6621.65,Primary,Yes,4,0
+17,Female,Gauteng,Urban,9264.27,None,Yes,9,1
+14,Male,Eastern Cape,Rural,5735.94,Primary,Yes,1,0
+18,Male,North West,Urban,6241.68,Primary,Yes,6,0
+12,Female,Western Cape,Urban,10565.12,Secondary,Yes,2,0
+17,Male,Western Cape,Rural,2070.34,Secondary,Yes,8,0
+16,Male,Limpopo,Urban,6496.26,Tertiary,Yes,5,0
+16,Female,Limpopo,Rural,1296.24,Secondary,Yes,3,0
+13,Female,Western Cape,Urban,,,,2,0
+17,Female,Free State,Urban,242.38,None,Yes,8,0
+15,Female,Eastern Cape,Rural,,,,7,0
+17,Female,Western Cape,Urban,2741.45,Secondary,No,4,1
+18,Female,KwaZulu-Natal,Rural,909.69,Primary,No,8,0
+12,Female,Free State,Urban,6545.55,Primary,Yes,11,0
+12,Male,Eastern Cape,Urban,14844.43,Primary,Yes,4,0
+18,Female,Western Cape,Urban,10844.77,Primary,Yes,2,0
+17,Female,North West,Urban,310.74,Secondary,Yes,2,0
+18,Female,Northern Cape,Rural,2627.5,Secondary,Yes,2,0
+14,Male,KwaZulu-Natal,Urban,6417.6,Secondary,No,5,1
+19,Male,North West,Rural,16953.41,Secondary,Yes,6,0
+18,Female,Limpopo,Rural,4244.18,Primary,Yes,7,0
+16,Female,Limpopo,Urban,4276.46,Primary,Yes,6,0
+18,Female,Western Cape,Urban,14109.72,Primary,Yes,2,0
+12,Male,Limpopo,Rural,8779.63,Primary,Yes,4,0
+16,Male,KwaZulu-Natal,Rural,12212.0,Secondary,Yes,3,0
+12,Female,Eastern Cape,Urban,5091.6,Secondary,No,9,1
+13,Male,Mpumalanga,Urban,7593.46,Secondary,Yes,4,0
+15,Female,Gauteng,Urban,13262.53,Primary,No,5,1
+12,Male,Eastern Cape,Rural,7420.64,Secondary,No,5,1
+16,Male,Mpumalanga,Urban,12492.21,Secondary,Yes,9,0
+13,Female,Free State,Rural,9549.07,Secondary,Yes,11,0
+12,Female,KwaZulu-Natal,Urban,3841.48,Secondary,Yes,2,0
+14,Female,North West,Urban,7934.73,Secondary,Yes,8,0
+18,Female,Mpumalanga,Urban,,,,3,0
+15,Male,KwaZulu-Natal,Urban,,,,5,1
+12,Male,Northern Cape,Urban,7838.99,Primary,Yes,10,0
+13,Male,North West,Urban,433.14,Secondary,Yes,4,0
+14,Female,Limpopo,Urban,816.03,Primary,Yes,3,0
+17,Male,Limpopo,Urban,1666.78,None,Yes,10,0
+13,Female,North West,Urban,5958.23,Tertiary,Yes,6,0
+18,Male,Free State,Rural,6491.53,Tertiary,Yes,10,0
+13,Female,Free State,Urban,2098.35,None,Yes,9,0
+14,Female,Free State,Urban,12090.05,Secondary,Yes,7,0
+13,Male,Mpumalanga,Urban,2944.92,Primary,No,1,1
+14,Female,Mpumalanga,Rural,2517.76,Secondary,Yes,3,0
+12,Female,Western Cape,Urban,8352.94,Tertiary,No,2,1
+19,Male,Gauteng,Rural,11895.62,Tertiary,Yes,4,0
+14,Female,North West,Rural,16219.42,Secondary,Yes,3,0
+14,Female,Eastern Cape,Rural,10330.18,Primary,Yes,3,0
+15,Female,Gauteng,Urban,14319.32,Secondary,Yes,9,0
+14,Male,Northern Cape,Rural,3151.77,Primary,Yes,4,0
+14,Male,Mpumalanga,Urban,,,,9,0
+17,Female,Mpumalanga,Urban,554.06,Tertiary,Yes,10,0
+19,Male,KwaZulu-Natal,Rural,5984.64,Secondary,Yes,5,0
+12,Female,Gauteng,Urban,10242.61,Primary,Yes,7,0
+18,Female,KwaZulu-Natal,Rural,1579.13,Primary,Yes,5,0
+15,Female,Eastern Cape,Urban,4291.8,None,Yes,1,0
+17,Female,KwaZulu-Natal,Rural,3656.31,Tertiary,No,6,1
+16,Female,Gauteng,Urban,6759.12,Secondary,Yes,11,0
+19,Male,North West,Urban,13686.33,Primary,Yes,5,0
+12,Female,Northern Cape,Urban,8067.3,Secondary,No,4,1
+12,Male,Mpumalanga,Rural,6147.74,Tertiary,Yes,7,0
+16,Male,Eastern Cape,Urban,0.0,Primary,No,6,1
+18,Female,Mpumalanga,Urban,9867.02,Tertiary,Yes,10,0
+14,Female,Western Cape,Urban,11160.06,Tertiary,No,2,1
+17,Male,Northern Cape,Rural,1199.92,Tertiary,Yes,6,0
+13,Male,KwaZulu-Natal,Urban,7732.11,Primary,No,8,1
+15,Male,Limpopo,Urban,8772.03,Primary,Yes,2,0
+13,Female,Gauteng,Urban,11858.41,Primary,Yes,3,0
+16,Male,Mpumalanga,Urban,5100.93,Primary,Yes,1,0
+12,Female,KwaZulu-Natal,Urban,4498.56,Primary,Yes,9,0
+18,Female,Eastern Cape,Urban,6174.01,Secondary,Yes,10,0
+12,Female,Mpumalanga,Rural,13137.75,Secondary,Yes,11,0
+15,Male,Northern Cape,Urban,12175.38,Tertiary,No,5,1
+12,Female,Northern Cape,Urban,7914.62,None,Yes,5,0
+12,Female,Mpumalanga,Urban,12079.11,Secondary,No,1,1
+15,Female,Eastern Cape,Rural,0.0,Secondary,Yes,1,0
+17,Female,Northern Cape,Rural,11166.62,Secondary,No,5,1
+17,Female,Northern Cape,Rural,,,,7,1
+15,Male,Gauteng,Urban,15068.1,Secondary,Yes,2,0
+18,Female,Eastern Cape,Urban,3743.02,Tertiary,No,9,0
+16,Female,Eastern Cape,Urban,4588.95,Primary,Yes,5,0
+19,Male,North West,Urban,10249.69,Secondary,Yes,1,0
+12,Female,North West,Urban,,,,2,0
+18,Male,Northern Cape,Rural,6214.67,None,Yes,1,0
+12,Female,Limpopo,Rural,9485.62,Primary,Yes,6,0
+19,Male,North West,Rural,,,,9,0
+16,Male,Northern Cape,Urban,9572.46,Primary,Yes,11,0
+17,Female,Free State,Rural,6381.78,Primary,Yes,7,0
+18,Female,Western Cape,Urban,10020.84,None,Yes,5,0
+14,Female,Western Cape,Urban,13625.48,Tertiary,No,4,1
+14,Male,Eastern Cape,Rural,3098.05,None,No,4,1
+19,Male,Limpopo,Urban,4639.76,Secondary,Yes,10,0
+14,Male,Gauteng,Urban,8109.02,Primary,Yes,4,0
+17,Female,North West,Urban,3775.1,Tertiary,Yes,9,0
+19,Male,Free State,Rural,786.39,Tertiary,Yes,5,0
+17,Male,Northern Cape,Rural,12372.49,Secondary,Yes,6,1
+16,Female,Limpopo,Urban,0.0,Secondary,Yes,5,0
+12,Male,Eastern Cape,Rural,6390.47,None,Yes,10,0
+16,Male,North West,Urban,11035.78,Tertiary,Yes,11,0
+16,Female,Limpopo,Urban,9066.8,Tertiary,Yes,7,0
+17,Male,North West,Rural,6451.0,Tertiary,Yes,7,1
+19,Female,Gauteng,Rural,3610.24,Secondary,Yes,4,1
+19,Female,Gauteng,Rural,9375.47,Primary,Yes,2,0
+14,Female,Western Cape,Urban,4046.42,Tertiary,Yes,7,0
+13,Female,KwaZulu-Natal,Rural,9063.73,Primary,No,2,1
+12,Female,KwaZulu-Natal,Rural,8563.67,Secondary,Yes,4,0
+17,Male,North West,Rural,8604.13,None,Yes,6,0
+14,Male,KwaZulu-Natal,Urban,5438.72,Tertiary,Yes,11,0
+18,Female,Eastern Cape,Rural,16140.04,Primary,Yes,10,0
+13,Female,KwaZulu-Natal,Urban,9432.83,Primary,Yes,3,0
+13,Male,Mpumalanga,Urban,6885.16,Secondary,Yes,7,0
+17,Female,Northern Cape,Urban,9057.08,Secondary,Yes,11,0
+5,Female,Eastern Cape,Urban,4902.15,Secondary,Yes,3,0
+12,Female,Limpopo,Urban,6454.78,Primary,Yes,11,0
+13,Male,Eastern Cape,Rural,17567.68,None,No,8,1
+17,Male,Western Cape,Urban,,,,11,0
+17,Female,Limpopo,Rural,7688.91,Tertiary,Yes,11,0
+14,Female,Free State,Urban,,,,8,0
+18,Male,Northern Cape,Urban,3841.46,Secondary,Yes,3,0
+15,Male,Northern Cape,Urban,9684.34,Tertiary,Yes,2,0
+12,Female,Northern Cape,Urban,8145.89,Secondary,Yes,6,0
+19,Female,Northern Cape,Urban,11644.11,Secondary,Yes,4,0
+16,Male,North West,Urban,11242.31,Secondary,Yes,8,0
+18,Male,Northern Cape,Urban,11602.83,Secondary,Yes,2,0
+18,Male,Northern Cape,Urban,4327.19,Secondary,Yes,4,0
+14,Female,Northern Cape,Urban,10563.84,Secondary,Yes,2,0
+19,Male,North West,Urban,1000000.0,Primary,Yes,2,0
+13,Female,Gauteng,Urban,,,,9,1
+13,Male,Eastern Cape,Rural,6725.54,None,Yes,1,0
+14,Male,Eastern Cape,Rural,2175.55,Secondary,Yes,4,0
+17,Male,Limpopo,Rural,10678.49,Primary,Yes,2,0
+13,Male,Mpumalanga,Urban,10660.09,Primary,No,9,1
+15,Female,Eastern Cape,Rural,13721.45,Secondary,Yes,9,0
+12,Female,KwaZulu-Natal,Rural,7084.81,Secondary,Yes,11,0
+18,Male,Mpumalanga,Rural,9805.88,Secondary,No,1,0
+18,Female,Northern Cape,Urban,11950.94,Secondary,No,7,0
+15,Male,Northern Cape,Rural,4984.43,Tertiary,Yes,6,0
+19,Male,North West,Rural,4376.14,Tertiary,Yes,3,0
+13,Male,Mpumalanga,Urban,5108.46,Tertiary,Yes,7,0
+18,Male,KwaZulu-Natal,Rural,6602.82,Secondary,Yes,1,0
+16,Female,North West,Urban,4517.78,Primary,No,9,1
+19,Male,Limpopo,Urban,5280.69,Tertiary,Yes,4,0
+12,Male,Mpumalanga,Urban,11523.66,Primary,No,9,1
+12,Female,Northern Cape,Rural,7614.61,Primary,Yes,6,0
+18,Male,Northern Cape,Urban,9226.79,Secondary,Yes,11,0
+14,Male,Western Cape,Urban,5797.13,None,Yes,3,0
+19,Male,North West,Urban,5534.54,Tertiary,Yes,4,0
+18,Female,Gauteng,Urban,9142.22,Secondary,Yes,11,0
+14,Male,Gauteng,Urban,8504.25,Secondary,Yes,10,0
+18,Female,North West,Rural,11111.95,Secondary,Yes,3,0
+16,Male,Free State,Rural,13206.37,Secondary,Yes,6,0
+19,Male,North West,Urban,5234.35,None,Yes,1,0
+17,Female,Limpopo,Urban,-5000.0,Secondary,Yes,8,1
+12,Male,Northern Cape,Urban,3680.78,Secondary,Yes,8,0
+18,Male,KwaZulu-Natal,Rural,16295.11,Secondary,Yes,9,0
+16,Female,Free State,Urban,4854.78,Secondary,Yes,6,0
+14,Female,Mpumalanga,Urban,10762.52,Primary,Yes,1,0
+14,Female,Free State,Urban,3651.04,Primary,Yes,3,0
+12,Female,KwaZulu-Natal,Rural,7391.64,Primary,Yes,1,0
+15,Female,Western Cape,Rural,14182.93,Primary,Yes,5,0
+18,Male,Northern Cape,Rural,4729.18,Tertiary,Yes,3,0
+19,Female,Gauteng,Rural,16816.74,Tertiary,Yes,2,0
+13,Male,North West,Urban,7978.9,Primary,Yes,3,0
+14,Male,North West,Urban,11902.85,Secondary,Yes,9,0
+19,Male,Gauteng,Urban,9611.78,Secondary,No,1,0
+19,Female,Free State,Urban,9828.16,Primary,Yes,8,0
+17,Female,Northern Cape,Urban,2295.55,Primary,Yes,3,0
+19,Male,Eastern Cape,Urban,6108.59,Tertiary,Yes,11,0
+19,Female,Limpopo,Urban,12783.91,Secondary,Yes,2,0
+17,Female,KwaZulu-Natal,Rural,6622.72,Tertiary,No,8,1
+14,Female,Free State,Rural,8555.33,Primary,Yes,1,0
+19,Female,Mpumalanga,Rural,1810.31,Secondary,Yes,4,0
+15,Male,Western Cape,Rural,5849.69,Primary,Yes,8,0
+15,Male,North West,Urban,12492.16,Primary,Yes,1,0
+16,Female,Free State,Rural,2869.48,Secondary,Yes,5,0
+17,Male,Western Cape,Urban,,,,4,0
+16,Female,KwaZulu-Natal,Rural,8711.11,Primary,Yes,6,0
+17,Female,North West,Urban,7056.18,Primary,Yes,7,0
+18,Male,North West,Rural,6880.3,None,Yes,9,0
+18,Male,Eastern Cape,Urban,6035.88,Secondary,Yes,1,0
+19,Male,Free State,Urban,6392.12,Secondary,Yes,11,0
+13,Female,Northern Cape,Rural,11718.96,None,No,8,1
+18,Male,Gauteng,Urban,6271.82,Primary,Yes,4,0
+13,Female,Gauteng,Rural,15230.36,Primary,Yes,6,0
+5,Male,Limpopo,Rural,,,,10,0
+12,Male,Mpumalanga,Rural,5694.95,None,Yes,7,1
+18,Female,Western Cape,Rural,11893.46,Secondary,Yes,7,0
+16,Female,Free State,Rural,10495.58,None,Yes,8,0
+14,Female,Mpumalanga,Urban,1383.29,Primary,Yes,10,0
+19,Female,Eastern Cape,Rural,3862.11,Tertiary,Yes,8,0
+16,Female,North West,Rural,7538.32,Secondary,No,2,1
+14,Female,Northern Cape,Rural,1665.57,None,Yes,8,0
+15,Female,Free State,Urban,16362.12,Tertiary,No,4,1
+16,Female,Mpumalanga,Rural,11288.93,Secondary,Yes,6,0
+15,Male,Mpumalanga,Rural,7946.67,Tertiary,No,9,1
+13,Female,Northern Cape,Rural,6629.17,Secondary,Yes,3,0
+13,Female,Limpopo,Urban,5601.35,Secondary,Yes,6,0
+12,Male,Western Cape,Urban,143.87,Tertiary,Yes,5,0
+18,Female,Western Cape,Urban,1068.51,Primary,Yes,8,0
+16,Male,Mpumalanga,Rural,15604.48,Secondary,Yes,4,0
+15,Male,KwaZulu-Natal,Rural,14294.4,Secondary,Yes,4,0
+14,Female,Mpumalanga,Urban,5696.89,None,Yes,10,0
+13,Male,Mpumalanga,Urban,11632.0,None,Yes,11,0
+18,Female,Northern Cape,Urban,10025.68,Primary,Yes,10,0
+13,Male,North West,Urban,10497.15,Secondary,Yes,5,0
+14,Male,Northern Cape,Rural,,,,11,0
+18,Male,Free State,Rural,767.29,Secondary,No,8,0
+18,Female,Mpumalanga,Urban,12730.38,None,Yes,11,0
+15,Female,Western Cape,Urban,82.81,Secondary,No,8,1
+15,Male,Western Cape,Urban,7407.23,Tertiary,Yes,2,0
+16,Male,Gauteng,Rural,6529.19,Primary,Yes,2,0
+16,Female,Limpopo,Urban,,,,3,0
+17,Female,Eastern Cape,Urban,9257.8,Secondary,Yes,2,0
+19,Male,Free State,Urban,5289.63,Secondary,Yes,1,0
+17,Male,Free State,Rural,9582.94,Secondary,Yes,8,0
+12,Female,Limpopo,Rural,8564.62,Tertiary,Yes,5,0
+13,Female,Eastern Cape,Rural,16394.93,Primary,Yes,10,0
+16,Female,North West,Urban,2458.36,Tertiary,Yes,1,0
+15,Female,Mpumalanga,Urban,8117.08,Primary,Yes,9,0
+14,Female,Eastern Cape,Urban,,,,8,0
+15,Male,KwaZulu-Natal,Rural,6974.39,None,Yes,4,0
+13,Female,Gauteng,Urban,2651.7,Secondary,Yes,8,0
+17,Male,Eastern Cape,Urban,13028.41,Secondary,Yes,10,0
+15,Female,Eastern Cape,Rural,9347.74,Primary,Yes,7,0
+19,Male,Gauteng,Rural,2932.41,Primary,Yes,11,0
+12,Female,Mpumalanga,Urban,9754.67,Tertiary,Yes,11,0
+13,Female,Eastern Cape,Urban,14806.26,Tertiary,Yes,7,0
+17,Male,Gauteng,Urban,7854.74,Secondary,Yes,1,0
+19,Male,Gauteng,Rural,7991.15,Secondary,Yes,6,0
+14,Female,Gauteng,Rural,14272.02,Secondary,Yes,4,0
+17,Female,Northern Cape,Urban,4118.46,Primary,Yes,10,0
+18,Female,Northern Cape,Urban,14910.21,Tertiary,Yes,10,0
+19,Female,KwaZulu-Natal,Rural,11891.64,Primary,Yes,10,0
+19,Female,North West,Rural,,,,4,0
+12,Male,Northern Cape,Urban,5326.92,Primary,Yes,2,0
+13,Male,Northern Cape,Urban,5900.75,Secondary,Yes,10,0
+14,Female,North West,Urban,665.74,Secondary,Yes,7,0
+12,Male,Limpopo,Urban,9041.89,Secondary,Yes,9,0
+17,Male,Gauteng,Rural,,,,6,1
+12,Male,Free State,Rural,9186.21,Secondary,Yes,8,0
+19,Female,North West,Rural,2836.23,Primary,No,1,0
+13,Male,KwaZulu-Natal,Urban,11692.05,Primary,Yes,7,0
+16,Female,Mpumalanga,Rural,10950.5,None,Yes,7,0
+12,Male,KwaZulu-Natal,Urban,5176.48,Secondary,Yes,9,0
+18,Female,Gauteng,Urban,9438.6,Secondary,Yes,3,0
+12,Male,North West,Urban,8331.68,Secondary,Yes,1,0
+17,Female,KwaZulu-Natal,Urban,,,,2,0
+17,Female,KwaZulu-Natal,Rural,3870.08,Secondary,Yes,6,0
+14,Male,Limpopo,Urban,7390.81,Secondary,No,2,1
+17,Female,Limpopo,Urban,5437.27,Primary,Yes,10,0
+15,Female,North West,Urban,8179.27,Primary,Yes,9,0
+13,Female,Gauteng,Urban,10133.09,Secondary,Yes,3,0
+13,Female,Northern Cape,Urban,5392.77,Secondary,Yes,10,0
+16,Female,Western Cape,Urban,6543.58,Tertiary,Yes,2,0
+16,Female,Eastern Cape,Rural,11864.16,Tertiary,Yes,11,0
+13,Female,Free State,Urban,13429.3,Primary,Yes,1,0
+18,Female,Eastern Cape,Urban,9974.06,Primary,Yes,2,0
+16,Male,Limpopo,Urban,7448.15,Secondary,Yes,3,0
+5,Male,North West,Rural,7067.61,Primary,Yes,7,0
+17,Female,Eastern Cape,Urban,,,,3,1
+13,Female,Gauteng,Urban,8911.07,Tertiary,Yes,5,0
+19,Male,Free State,Urban,1404.1,Primary,Yes,2,0
+16,Male,Eastern Cape,Urban,10289.54,Tertiary,Yes,7,0
+13,Male,Free State,Urban,4557.72,Secondary,Yes,10,0
+15,Female,Mpumalanga,Rural,2332.25,Secondary,Yes,8,0
+12,Male,Gauteng,Rural,1326.62,Primary,Yes,8,0
+17,Female,Western Cape,Urban,7135.58,Primary,Yes,8,0
+13,Female,KwaZulu-Natal,Rural,3933.9,Secondary,Yes,10,0
+12,Male,Free State,Rural,0.0,Primary,Yes,9,0
+16,Female,Gauteng,Urban,6566.18,Primary,Yes,1,0
+12,Female,Free State,Urban,,,,1,0
+17,Female,Free State,Urban,7400.4,Primary,Yes,10,0
+13,Female,Northern Cape,Urban,5484.41,Primary,Yes,2,0
+15,Male,Northern Cape,Rural,-5000.0,Secondary,No,1,1
+18,Male,Gauteng,Rural,10069.35,Primary,Yes,6,0
+16,Female,Northern Cape,Rural,6001.55,None,Yes,1,0
+13,Female,Western Cape,Rural,7745.49,Secondary,Yes,5,0
+17,Male,North West,Urban,13658.57,Tertiary,Yes,5,0
+16,Female,Gauteng,Urban,11826.49,Primary,Yes,4,0
+14,Male,Gauteng,Rural,,,,9,1
+12,Female,Limpopo,Urban,4102.84,Secondary,No,8,1
+18,Female,Limpopo,Rural,4872.61,Tertiary,Yes,1,0
+17,Male,Northern Cape,Rural,6241.2,Secondary,Yes,11,0
+14,Male,North West,Rural,5618.31,Secondary,Yes,11,0
+19,Male,Northern Cape,Rural,8136.04,Primary,Yes,6,0
+13,Male,Mpumalanga,Urban,10942.89,Secondary,Yes,7,0
+15,Female,Mpumalanga,Rural,11610.64,None,Yes,8,0
+16,Male,KwaZulu-Natal,Rural,6692.81,Secondary,Yes,2,0
+12,Female,Mpumalanga,Urban,1461.23,Secondary,Yes,7,0
+16,Male,Limpopo,Rural,3838.36,Tertiary,Yes,6,0
+18,Male,Western Cape,Urban,5920.9,Primary,Yes,9,0
+13,Female,Mpumalanga,Rural,,,,8,0
+16,Male,Northern Cape,Urban,12563.44,Secondary,Yes,11,0
+12,Male,Free State,Urban,3281.84,Secondary,Yes,4,0
+13,Male,Gauteng,Urban,10468.25,Secondary,Yes,9,0
+16,Male,Western Cape,Rural,1272.48,Primary,Yes,1,0
+15,Female,Western Cape,Urban,10628.8,Primary,Yes,11,0
+17,Female,Northern Cape,Urban,7442.93,Secondary,Yes,6,0
+13,Male,Gauteng,Urban,14050.12,Primary,No,6,1
+17,Male,Limpopo,Rural,3473.75,Tertiary,Yes,11,0
+19,Male,Western Cape,Urban,5743.54,Secondary,Yes,11,0
+13,Female,KwaZulu-Natal,Urban,6518.27,Secondary,Yes,4,0
+15,Female,Northern Cape,Rural,7390.0,Secondary,No,3,1
+17,Female,Western Cape,Urban,6616.08,Secondary,Yes,11,0
+14,Female,North West,Rural,6693.29,Primary,No,6,1
+12,Male,Gauteng,Urban,6627.75,Tertiary,Yes,10,0
+14,Male,Mpumalanga,Rural,0.0,Primary,No,2,1
+16,Male,Western Cape,Urban,11973.34,Secondary,Yes,5,0
+15,Female,Northern Cape,Urban,,,,6,0
+14,Male,Mpumalanga,Rural,9193.08,Secondary,No,2,1
+13,Female,KwaZulu-Natal,Urban,3457.0,Primary,No,9,1
+5,Female,Mpumalanga,Rural,3861.85,Primary,Yes,5,0
+16,Male,North West,Urban,10452.7,Tertiary,Yes,5,0
+14,Male,Limpopo,Urban,,,,9,0
+19,Male,Western Cape,Urban,6862.84,Secondary,Yes,8,0
+14,Female,Eastern Cape,Rural,11013.62,Tertiary,Yes,9,0
+19,Female,Eastern Cape,Urban,0.0,None,No,9,0
+15,Male,Mpumalanga,Urban,,,,3,0
+12,Male,Gauteng,Urban,8951.04,Primary,Yes,1,0
+14,Female,Eastern Cape,Urban,4016.21,None,Yes,10,0
+18,Male,Eastern Cape,Urban,2266.7,Secondary,Yes,6,0
+19,Female,Gauteng,Rural,8485.31,Tertiary,Yes,4,0
+14,Female,Free State,Urban,13628.95,None,Yes,11,0
+17,Male,Eastern Cape,Rural,7087.63,Secondary,Yes,8,0
+13,Male,North West,Urban,4589.26,Secondary,Yes,2,0
+18,Male,Western Cape,Rural,8765.15,Tertiary,Yes,11,0
+18,Male,Western Cape,Rural,15283.49,None,Yes,2,0
+19,Female,Northern Cape,Urban,9725.2,Secondary,No,8,0
+17,Female,Northern Cape,Rural,10157.61,Secondary,Yes,5,0
+17,Female,Gauteng,Urban,12891.19,Secondary,Yes,1,0
+16,Male,KwaZulu-Natal,Rural,9890.23,Tertiary,Yes,7,0
+19,Female,Northern Cape,Rural,4876.12,Tertiary,Yes,7,0
+12,Male,Gauteng,Urban,1021.74,None,Yes,10,0
+13,Male,Northern Cape,Urban,4313.39,Secondary,Yes,6,0
+15,Male,Northern Cape,Urban,3581.09,Primary,Yes,4,0
+18,Male,KwaZulu-Natal,Urban,10637.23,Primary,Yes,8,0
+15,Male,Eastern Cape,Urban,11193.39,Secondary,Yes,11,0
+14,Male,Mpumalanga,Urban,8702.29,Primary,No,1,1
+14,Female,Free State,Urban,-5000.0,Secondary,Yes,2,0
+15,Male,Northern Cape,Rural,15146.39,Tertiary,No,9,1
+14,Female,Northern Cape,Urban,6335.16,None,Yes,3,0
+12,Female,North West,Urban,10413.92,Tertiary,Yes,6,0
+17,Male,Free State,Rural,8197.3,Secondary,Yes,1,0
+14,Male,KwaZulu-Natal,Urban,8834.65,Secondary,Yes,11,0
+16,Male,Western Cape,Urban,10272.74,Tertiary,Yes,2,0
+14,Female,Northern Cape,Urban,5215.92,Primary,Yes,10,0
+13,Male,Mpumalanga,Rural,13221.61,Secondary,Yes,2,0
+12,Female,Free State,Rural,1681.98,Secondary,Yes,1,0
+13,Male,Eastern Cape,Urban,3845.77,Primary,No,6,1
+13,Male,Northern Cape,Rural,13169.72,Tertiary,Yes,10,0
+16,Female,Western Cape,Urban,10360.02,Tertiary,Yes,7,0
+12,Female,Western Cape,Rural,18161.56,Primary,Yes,1,0
+12,Male,Northern Cape,Rural,8273.4,Primary,Yes,7,0
+19,Female,Limpopo,Rural,14801.72,Secondary,Yes,5,0
+12,Female,Western Cape,Urban,570.08,None,Yes,9,0
+12,Female,Gauteng,Urban,2345.94,Secondary,Yes,2,0
+12,Female,Western Cape,Urban,11582.1,Primary,Yes,1,0
+16,Female,Free State,Rural,1038.53,Secondary,Yes,9,0
+14,Male,Limpopo,Urban,7210.53,None,Yes,8,0
+19,Male,KwaZulu-Natal,Rural,12668.84,Primary,No,3,0
+13,Female,North West,Rural,10004.69,Secondary,Yes,6,0
+12,Male,KwaZulu-Natal,Urban,8044.38,Secondary,Yes,5,0
+18,Male,Eastern Cape,Rural,6203.57,Tertiary,No,5,0
+30,Female,North West,Rural,8808.9,Tertiary,Yes,8,0
+14,Male,Eastern Cape,Rural,,,,5,0
+13,Female,North West,Rural,5356.42,None,Yes,7,0
+16,Female,North West,Rural,9486.94,Tertiary,Yes,1,0
+15,Male,Gauteng,Urban,,,,7,1
+15,Female,Mpumalanga,Rural,7110.09,Tertiary,Yes,2,0
+14,Female,Free State,Urban,8272.49,Primary,Yes,10,0
+17,Female,KwaZulu-Natal,Rural,9935.12,Tertiary,Yes,3,0
+17,Female,Western Cape,Rural,10205.34,Primary,No,2,1
+13,Female,Limpopo,Urban,11513.81,Secondary,Yes,11,0
+15,Male,Free State,Rural,,,,11,0
+14,Male,Eastern Cape,Urban,-5000.0,Primary,No,5,1
+16,Female,Gauteng,Urban,6032.49,Tertiary,Yes,1,0
+15,Female,Eastern Cape,Urban,4384.35,Primary,Yes,8,0
+14,Male,Mpumalanga,Rural,806.34,Tertiary,Yes,4,0
+14,Female,Limpopo,Rural,0.0,Primary,Yes,3,0
+12,Male,Gauteng,Rural,12781.81,Tertiary,Yes,1,0
+16,Female,Eastern Cape,Urban,1784.43,None,Yes,2,0
+12,Female,Mpumalanga,Rural,14266.04,Secondary,Yes,3,0
+13,Female,Eastern Cape,Rural,10957.64,Secondary,Yes,3,0
+12,Female,Free State,Urban,6377.25,Secondary,Yes,6,0
+18,Female,Limpopo,Urban,10465.69,Primary,Yes,10,0
+12,Female,Northern Cape,Urban,9700.53,Secondary,Yes,8,0
